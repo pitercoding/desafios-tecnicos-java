@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/000-HelloWorld/000-HelloWorld.iml" filepath="$PROJECT_DIR$/000-HelloWorld/000-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-Palindromo/001-Palindromo.iml" filepath="$PROJECT_DIR$/001-Palindromo/001-Palindromo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-SomarNumerosUnicos/002-SomarNumerosUnicos.iml" filepath="$PROJECT_DIR$/002-SomarNumerosUnicos/002-SomarNumerosUnicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
+    </modules>
+  </component>
+</project>

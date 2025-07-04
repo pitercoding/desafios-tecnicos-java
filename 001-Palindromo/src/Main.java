@@ -1,9 +1,5 @@
-package desafio000;
-
 import java.util.Scanner;
-
-public class palindromo {
-
+public class Main {
     public static boolean isPalindrome(String texto) {
         String textoLimpo = texto.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
         String textoInvertido = new StringBuilder(textoLimpo).reverse().toString();
@@ -14,8 +10,9 @@ public class palindromo {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("=== Verificador de palíndromo ===");
-        System.out.println("Digite uma palavra: ");
-        String palavra = scanner.nextLine();
-        System.out.println("Sua palavra " + palavra + " é palíndromo? " + isPalindrome(palavra));
+        System.out.print("Digite uma palavra ou frase: ");
+        String str1 = scanner.nextLine();
+        System.out.println(str1 + " é palíndromo? " + isPalindrome(str1));
+
     }
 }
