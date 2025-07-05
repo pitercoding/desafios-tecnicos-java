@@ -44,9 +44,8 @@ Ex: "Java" → "avaJ"
 -------------------------------------------------
 🧠 Desafios de Lógica Intermediária (nível 2)
 -------------------------------------------------
-🔹 ?. Soma dos Dígitos
+🔹 008. Soma dos Dígitos
 Dado um número inteiro positivo, calcule a soma dos seus dígitos.
-
 Ex: 123 → 1+2+3 = 6
 
 🔹 ?. Fibonacci até N termos
