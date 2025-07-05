@@ -48,7 +48,7 @@ Ex: "Java" → "avaJ"
 Dado um número inteiro positivo, calcule a soma dos seus dígitos.
 Ex: 123 → 1+2+3 = 6
 
-🔹 ?. Fibonacci até N termos
+🔹 009. Fibonacci até N termos
 Imprima a sequência de Fibonacci até n termos.
 Ex: 0, 1, 1, 2, 3, 5, 8...
 
