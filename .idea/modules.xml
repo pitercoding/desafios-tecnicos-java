@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/003-ZooJavaPoo/003-ZooJavaPoo.iml" filepath="$PROJECT_DIR$/003-ZooJavaPoo/003-ZooJavaPoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZooPoo/003-ZooPoo/003-ZooPoo.iml" filepath="$PROJECT_DIR$/ZooPoo/003-ZooPoo/003-ZooPoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-ContadorDeVogais/004-ContadorDeVogais.iml" filepath="$PROJECT_DIR$/004-ContadorDeVogais/004-ContadorDeVogais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-Fatorial/005-Fatorial.iml" filepath="$PROJECT_DIR$/005-Fatorial/005-Fatorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
   </component>
