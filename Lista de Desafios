@@ -1,51 +1,66 @@
+---------------------------
 Desafios Simples (nível 1)
+---------------------------
 
-🔹 1. Verificador de Palíndromo
+🔹 000. Olá, Mundo!
+
+🔹 001. Verificador de Palíndromo
 Dado uma String, verifique se é um palíndromo (igual quando lida de trás pra frente).
-
 Ex: "ovo", "Ame a ema", "socorram-me subi no ônibus em Marrocos"
 
-🔹 2. Contador de Vogais
-Escreva um método que conte quantas vogais (a, e, i, o, u) existem em uma String.
+🔹 002. Soma de números únicos
+Dado um array de inteiros, retorne a soma apenas dos números que aparecem uma única vez.
+Exemplo:
+Entrada: [2, 3, 4, 2, 4]
+Saída: 3 (somente o número 3 aparece uma vez)
 
+🔹 003. Orientação a Objetos: Zoológico
+Crie as classes necessárias para representar o seguinte cenário:
+Existe uma classe abstrata Animal com os atributos: nomeCientifico (String) e som (String).
+Dois animais herdam de Animal: Leao e Macaco.
+Todos os animais devem ter um método emitirSom() que imprime o som do animal.
+Os animais devem ser armazenados em uma lista.
+Você deve permitir:
+Adicionar um novo animal.
+Listar todos os animais emitindo seus sons.
+
+🔹 004. Contador de Vogais
+Escreva um método que conte quantas vogais (a, e, i, o, u) existem em uma String.
 Ex: Entrada: "banana" → Saída: 3
 
-🔹 3. Fatorial
+🔹 005. Fatorial
 Implemente uma função que calcule o fatorial de um número n.
 Ex: 5! = 5×4×3×2×1 = 120
 → Pratique recursão também, se quiser um passo a mais.
 
-🔹 4. Números Primos
+🔹 006. Números Primos
 Dado um número n, verifique se ele é primo.
-Bônus: liste os n primeiros primos.
 
-🔹 5. Inverter String
+🔹 007. Inverter String
 Dado uma string, inverta seus caracteres.
-
 Ex: "Java" → "avaJ"
 (Dica: use StringBuilder ou laços)
 
+-------------------------------------------------
 🧠 Desafios de Lógica Intermediária (nível 2)
-🔹 6. Soma dos Dígitos
+-------------------------------------------------
+🔹 ?. Soma dos Dígitos
 Dado um número inteiro positivo, calcule a soma dos seus dígitos.
 
 Ex: 123 → 1+2+3 = 6
 
-🔹 7. Fibonacci até N termos
+🔹 ?. Fibonacci até N termos
 Imprima a sequência de Fibonacci até n termos.
-
 Ex: 0, 1, 1, 2, 3, 5, 8...
 
-🔹 8. Remover Duplicados de um Array
+🔹 ?. Remover Duplicados de um Array
 Dado um array de inteiros, retorne um novo array sem elementos duplicados.
 → Pratique com Set, List, Map.
 
-🔹 9. Maior e menor número de uma lista
+🔹 ?. Maior e menor número de uma lista
 Dado um array de inteiros, retorne o menor e o maior número.
-
 Ex: [3, 9, -1, 5] → menor: -1, maior: 9
 
-🔹 10. Contar Frequência de Caracteres
+🔹 ?. Contar Frequência de Caracteres
 Escreva um método que conte quantas vezes cada caractere aparece em uma string.
-
 Ex: "banana" → {b=1, a=3, n=2}
