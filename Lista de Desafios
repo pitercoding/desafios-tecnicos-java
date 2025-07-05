@@ -12,8 +12,6 @@ Ex: Entrada: "banana" → Saída: 3
 
 🔹 3. Fatorial
 Implemente uma função que calcule o fatorial de um número n.
-
-
 Ex: 5! = 5×4×3×2×1 = 120
 → Pratique recursão também, se quiser um passo a mais.
 
