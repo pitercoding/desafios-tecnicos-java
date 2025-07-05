@@ -6,21 +6,14 @@ public class Main {
 
     public static long calcularFatorial(int n) {
         long fatorial = 1;
-
-        // Mostra o passo a passo
         System.out.print(n + "! = ");
-
         for (int i = n; i >= 1; i--) {
             fatorial *= i;
-
-            // Mostrar multiplicação
             System.out.print(i);
-
             if (i > 1) {
                 System.out.print(" x ");
             }
         }
-
         System.out.print(" = "); // Parte final antes do resultado
         return fatorial;
     }
@@ -47,4 +40,3 @@ public class Main {
         }
     }
 }
-
