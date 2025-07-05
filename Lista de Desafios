@@ -52,7 +52,7 @@ Ex: 123 → 1+2+3 = 6
 Imprima a sequência de Fibonacci até n termos.
 Ex: 0, 1, 1, 2, 3, 5, 8...
 
-🔹 ?. Remover Duplicados de um Array
+🔹 010. Remover Duplicados de um Array
 Dado um array de inteiros, retorne um novo array sem elementos duplicados.
 → Pratique com Set, List, Map.
 

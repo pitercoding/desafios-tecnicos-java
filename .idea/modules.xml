@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/007-InverterString/007-InverterString.iml" filepath="$PROJECT_DIR$/007-InverterString/007-InverterString.iml" />
       <module fileurl="file://$PROJECT_DIR$/008-SomaDosDigitos/008-SomaDosDigitos.iml" filepath="$PROJECT_DIR$/008-SomaDosDigitos/008-SomaDosDigitos.iml" />
       <module fileurl="file://$PROJECT_DIR$/009-Fibonacci/009-Fibonacci.iml" filepath="$PROJECT_DIR$/009-Fibonacci/009-Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-DuplicadosArray/010-DuplicadosArray.iml" filepath="$PROJECT_DIR$/010-DuplicadosArray/010-DuplicadosArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
   </component>
