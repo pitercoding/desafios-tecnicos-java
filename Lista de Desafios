@@ -56,8 +56,8 @@ Ex: 0, 1, 1, 2, 3, 5, 8...
 Dado um array de inteiros, retorne um novo array sem elementos duplicados.
 → Pratique com Set, List, Map.
 
-🔹 ?. Maior e menor número de uma lista
-Dado um array de inteiros, retorne o menor e o maior número.
+🔹 011. Maior e menor número de uma lista
+Dado um array de inteiros, retorne o menor e maior número. Como bônus, informe a média, pares e ímpares.
 Ex: [3, 9, -1, 5] → menor: -1, maior: 9
 
 🔹 ?. Contar Frequência de Caracteres
