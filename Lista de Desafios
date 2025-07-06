@@ -64,7 +64,7 @@ Ex: [3, 9, -1, 5] → menor: -1, maior: 9
 Escreva um método que conte quantas vezes cada caractere aparece em uma string.
 Ex: "banana" → {b=1, a=3, n=2}
 
-🔹 ?. Par ou Ímpar
+🔹 013. Par ou Ímpar
      ➤ Peça um número ao usuário e diga se ele é par ou ímpar.
 
 🔹 ?. Tabuada de um número
