@@ -63,3 +63,58 @@ Ex: [3, 9, -1, 5] → menor: -1, maior: 9
 🔹 012. Contar Frequência de Caracteres
 Escreva um método que conte quantas vezes cada caractere aparece em uma string.
 Ex: "banana" → {b=1, a=3, n=2}
+
+🔹 ?. Par ou Ímpar
+     ➤ Peça um número ao usuário e diga se ele é par ou ímpar.
+
+🔹 ?. Tabuada de um número
+     ➤ O usuário digita um número e o programa exibe sua tabuada de 1 a 10.
+
+🔹 ?. Verificar Anagramas
+     Escreva um método que receba duas strings e retorne true se forem anagramas (mesmas letras em ordem diferente).
+     👉 Ex: "amor" e "roma".
+
+🔹 ?. Contar Palavras em uma Frase
+     Peça para o usuário digitar uma frase e conte quantas palavras existem.
+     👉 Desafio extra: ignore múltiplos espaços.
+
+🔹 ?. Primeiro Caractere Repetido
+     Dada uma string, encontre o primeiro caractere que se repete.
+     👉 Ex: "programar" → 'r'
+
+🔹 ?. Verificar se todos os caracteres são únicos
+     Dada uma string, diga se todos os caracteres são únicos (sem repetição).
+     👉 Ex: "abcd" → true
+     👉 Ex: "java" → false
+
+🔹 ?. Caixa Eletrônico Simples (POO)
+     Simule um caixa eletrônico:
+     Criar uma classe Conta com saldo, depositar, sacar.
+     Usuário interage via console.
+
+🔹 ?. Validador de Senha
+    Verifique se uma senha é forte:
+    Pelo menos 8 caracteres
+    Contém letra maiúscula
+    Contém número
+    Contém caractere especial
+
+🔹 ?. Remover elementos repetidos mantendo a ordem
+     Dado um array de inteiros, remova os duplicados, mas mantenha a ordem original.
+     👉 Use LinkedHashSet.
+
+🔹 ?. Somar apenas números positivos de uma lista
+     Peça ao usuário para digitar vários números e some apenas os positivos.
+
+🔹 ?. Ordenar um array de inteiros (sem usar sort)
+
+🔹 ?. Transformar String em Título
+     Ex: "ola mundo em java" → "Ola Mundo Em Java"
+     👉 Capitalizar a primeira letra de cada palavra.
+
+🔹 ?. Criar uma classe Pessoa com atributos e método apresentar()
+
+🔹 ?. Simular um cadastro simples com ArrayList
+
+🔹 ?. Jogo da Adivinhação
+     O computador escolhe um número aleatório de 1 a 10 e o usuário tenta adivinhar, recebendo dicas (maior/menor).
