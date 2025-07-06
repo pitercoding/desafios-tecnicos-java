@@ -60,6 +60,6 @@ Dado um array de inteiros, retorne um novo array sem elementos duplicados.
 Dado um array de inteiros, retorne o menor e maior número. Como bônus, informe a média, pares e ímpares.
 Ex: [3, 9, -1, 5] → menor: -1, maior: 9
 
-🔹 ?. Contar Frequência de Caracteres
+🔹 012. Contar Frequência de Caracteres
 Escreva um método que conte quantas vezes cada caractere aparece em uma string.
 Ex: "banana" → {b=1, a=3, n=2}
