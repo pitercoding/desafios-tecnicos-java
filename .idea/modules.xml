@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/013-ParOuImpar/013-ParOuImpar.iml" filepath="$PROJECT_DIR$/013-ParOuImpar/013-ParOuImpar.iml" />
       <module fileurl="file://$PROJECT_DIR$/014-Tabuada/014-Tabuada.iml" filepath="$PROJECT_DIR$/014-Tabuada/014-Tabuada.iml" />
       <module fileurl="file://$PROJECT_DIR$/015-VerificarAnagramas/015-VerificarAnagramas.iml" filepath="$PROJECT_DIR$/015-VerificarAnagramas/015-VerificarAnagramas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-ContadorDePalavras/016-ContadorDePalavras.iml" filepath="$PROJECT_DIR$/016-ContadorDePalavras/016-ContadorDePalavras.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
   </component>
