@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/020-ValidadorDeSenha/020-ValidadorDeSenha.iml" filepath="$PROJECT_DIR$/020-ValidadorDeSenha/020-ValidadorDeSenha.iml" />
       <module fileurl="file://$PROJECT_DIR$/021-ElementosRepetidos/021-ElementosRepetidos.iml" filepath="$PROJECT_DIR$/021-ElementosRepetidos/021-ElementosRepetidos.iml" />
       <module fileurl="file://$PROJECT_DIR$/022-SomarPositivos/022-SomarPositivos.iml" filepath="$PROJECT_DIR$/022-SomarPositivos/022-SomarPositivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023-OrdenarArrayDeInteiros/023-OrdenarArrayDeInteiros.iml" filepath="$PROJECT_DIR$/023-OrdenarArrayDeInteiros/023-OrdenarArrayDeInteiros.iml" />
       <module fileurl="file://$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" filepath="$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
