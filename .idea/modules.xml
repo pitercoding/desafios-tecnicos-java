@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/027-SomaComLaco/027-SomaComLaco.iml" filepath="$PROJECT_DIR$/027-SomaComLaco/027-SomaComLaco.iml" />
       <module fileurl="file://$PROJECT_DIR$/028-NumeroSecreto/028-NumeroSecreto.iml" filepath="$PROJECT_DIR$/028-NumeroSecreto/028-NumeroSecreto.iml" />
       <module fileurl="file://$PROJECT_DIR$/029-MenuComDoWhile/029-MenuComDoWhile.iml" filepath="$PROJECT_DIR$/029-MenuComDoWhile/029-MenuComDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/030-ContaNumeros/030-ContaNumeros.iml" filepath="$PROJECT_DIR$/030-ContaNumeros/030-ContaNumeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" filepath="$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
