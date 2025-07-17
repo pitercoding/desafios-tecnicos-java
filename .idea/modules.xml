@@ -34,7 +34,8 @@
       <module fileurl="file://$PROJECT_DIR$/029-MenuComDoWhile/029-MenuComDoWhile.iml" filepath="$PROJECT_DIR$/029-MenuComDoWhile/029-MenuComDoWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/030-ContaNumeros/030-ContaNumeros.iml" filepath="$PROJECT_DIR$/030-ContaNumeros/030-ContaNumeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/031-SomaComLaco/031-SomaComLaco.iml" filepath="$PROJECT_DIR$/031-SomaComLaco/031-SomaComLaco.iml" />
-      <module fileurl="file://$PROJECT_DIR$/031-TabuadaEmLoop/031-TabuadaEmLoop.iml" filepath="$PROJECT_DIR$/031-TabuadaEmLoop/031-TabuadaEmLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/032-TabuadaEmLoop/032-TabuadaEmLoop.iml" filepath="$PROJECT_DIR$/032-TabuadaEmLoop/032-TabuadaEmLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/033-NumeroPerfeito/033-NumeroPerfeito.iml" filepath="$PROJECT_DIR$/033-NumeroPerfeito/033-NumeroPerfeito.iml" />
       <module fileurl="file://$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" filepath="$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
