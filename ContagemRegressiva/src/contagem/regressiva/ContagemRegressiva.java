@@ -7,7 +7,7 @@ public class ContagemRegressiva {
         /**
          * Peça ao usuário um número inteiro e faça uma contagem regressiva até 0, exibindo os números um por um.
          */
-        
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Informe um número inteiro: ");
