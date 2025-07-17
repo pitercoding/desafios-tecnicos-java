@@ -1,5 +1,5 @@
 ---------------------------
-Desafios Simples (nível 1)
+👍 Desafios Simples (nível 1)
 ---------------------------
 
 🔹 000. Olá, Mundo!
@@ -112,9 +112,58 @@ Ex: "banana" → {b=1, a=3, n=2}
      Ex: "ola mundo em java" → "Ola Mundo Em Java"
      👉 Capitalizar a primeira letra de cada palavra.
 
-🔹 025. Criar uma classe Pessoa com atributos e método apresentar()
+-------------------------------------------------
+🔁 Desafios com Laços e Condicionais
+-------------------------------------------------
 
-🔹 026. Simular um cadastro simples com ArrayList
+🔸 025. Contagem Regressiva
+Peça ao usuário um número inteiro e faça uma contagem regressiva até 0, exibindo os números um por um.
 
-🔹 027. Jogo da Adivinhação
-     O computador escolhe um número aleatório de 1 a 10 e o usuário tenta adivinhar, recebendo dicas (maior/menor).
+🔸 026. Números Pares de 1 a 100
+Use um for ou while para imprimir todos os números pares entre 1 e 100.
+
+🔸 027. Soma de 10 números digitados
+Peça 10 números ao usuário usando for ou do-while e mostre a soma total no final.
+
+🔸 028. Número Secreto com Tentativas Infinitas
+Armazene um número secreto e peça tentativas até o usuário acertar. Diga se o número digitado é maior ou menor.
+
+🔸 029. Menu com do-while
+Monte um menu que repete até que o usuário escolha “sair”:
+[1] Ver saldo
+[2] Depositar
+[3] Sair
+
+🔸 030. Contar números negativos, positivos e zeros
+O usuário digita 10 números. Conte quantos são negativos, positivos ou zero.
+
+🔸 031. Tabuada de vários números
+O usuário digita um número. Mostre sua tabuada. Depois pergunte se ele quer ver a de outro número. Repita até ele digitar "n".
+
+🔸 032. Soma até número negativo
+O programa deve somar os números digitados até que o usuário informe um número negativo.
+
+🔸 033. Verificar número perfeito
+Um número é perfeito se a soma dos seus divisores próprios (excluindo ele mesmo) for igual a ele.
+→ Ex: 6 → 1 + 2 + 3 = 6
+
+🔸 034. Gerador de sequência: potências de 2
+Peça um número n e exiba as potências de 2 até 2^n.
+→ Ex: Entrada: 5 → Saída: 1, 2, 4, 8, 16, 32
+
+🔸 035. Média de notas com laço
+O usuário digita as notas dos alunos (até digitar -1). Ao final, calcule e exiba a média das notas.
+
+🔸 036. Número Primo com break
+Dado um número, verifique se é primo interrompendo o laço assim que encontrar um divisor.
+
+🔸 037. Contar dígitos de um número
+Peça um número inteiro e conte quantos dígitos ele possui usando while.
+
+🔸 038. Inverter número inteiro
+Digite: 12345
+Saída: 54321
+(Dica: use while com % e /)
+
+🔸 039. Jogo de adivinhação com tentativas limitadas
+Com um número de tentativas definido pelo usuário.
