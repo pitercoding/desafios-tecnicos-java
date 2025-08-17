@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/037-ContadorDeDigitos/037-ContadorDeDigitos.iml" filepath="$PROJECT_DIR$/037-ContadorDeDigitos/037-ContadorDeDigitos.iml" />
       <module fileurl="file://$PROJECT_DIR$/038-InverterNumero/038-InverterNumero.iml" filepath="$PROJECT_DIR$/038-InverterNumero/038-InverterNumero.iml" />
       <module fileurl="file://$PROJECT_DIR$/039-JogoNumeroSecreto/039-JogoNumeroSecreto.iml" filepath="$PROJECT_DIR$/039-JogoNumeroSecreto/039-JogoNumeroSecreto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/040-SaudacaoPersonalizada/040-SaudacaoPersonalizada.iml" filepath="$PROJECT_DIR$/040-SaudacaoPersonalizada/040-SaudacaoPersonalizada.iml" />
       <module fileurl="file://$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" filepath="$PROJECT_DIR$/019-CaixaEletronico/CaixaEletronico.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
