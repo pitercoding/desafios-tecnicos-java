@@ -1,171 +1,95 @@
----------------------------
+========================================
 👍 Desafios Simples (nível 1)
----------------------------
+========================================
+✅ 001. Olá, Mundo!
+✅ 002. Verificador de Palíndromo
+✅ 003. Soma de números únicos
+✅ 004. Orientação a Objetos: Zoológico
+✅ 005. Contador de Vogais
+✅ 006. Fatorial
+✅ 007. Números Primos
+✅ 008. Inverter String
+✅ 009. Saudação personalizada com ponto de exclamação
+✅ 010. Receber dois números e mostrar operações
+011. Verificar se uma string contém apenas dígitos
+012. Calcular a área de um círculo (usuário informa o raio)
+013. Converter Celsius ↔ Fahrenheit
+014. Encontrar o maior de 3 números dados
+015. Calcular média aritmética de uma lista de números
 
-🔹 000. Olá, Mundo!
-
-🔹 001. Verificador de Palíndromo
-Dado uma String, verifique se é um palíndromo (igual quando lida de trás pra frente).
-Ex: "ovo", "Ame a ema", "socorram-me subi no ônibus em Marrocos"
-
-🔹 002. Soma de números únicos
-Dado um array de inteiros, retorne a soma apenas dos números que aparecem uma única vez.
-Exemplo:
-Entrada: [2, 3, 4, 2, 4]
-Saída: 3 (somente o número 3 aparece uma vez)
-
-🔹 003. Orientação a Objetos: Zoológico
-Crie as classes necessárias para representar o seguinte cenário:
-Existe uma classe abstrata Animal com os atributos: nomeCientifico (String) e som (String).
-Dois animais herdam de Animal: Leao e Macaco.
-Todos os animais devem ter um método emitirSom() que imprime o som do animal.
-Os animais devem ser armazenados em uma lista.
-Você deve permitir:
-Adicionar um novo animal.
-Listar todos os animais emitindo seus sons.
-
-🔹 004. Contador de Vogais
-Escreva um método que conte quantas vogais (a, e, i, o, u) existem em uma String.
-Ex: Entrada: "banana" → Saída: 3
-
-🔹 005. Fatorial
-Implemente uma função que calcule o fatorial de um número n.
-Ex: 5! = 5×4×3×2×1 = 120
-→ Pratique recursão também, se quiser um passo a mais.
-
-🔹 006. Números Primos
-Dado um número n, verifique se ele é primo.
-
-🔹 007. Inverter String
-Dado uma string, inverta seus caracteres.
-Ex: "Java" → "avaJ"
-(Dica: use StringBuilder ou laços)
-
--------------------------------------------------
+==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
--------------------------------------------------
-🔹 008. Soma dos Dígitos
-Dado um número inteiro positivo, calcule a soma dos seus dígitos.
-Ex: 123 → 1+2+3 = 6
+==============================================
 
-🔹 009. Fibonacci até N termos
-Imprima a sequência de Fibonacci até n termos.
-Ex: 0, 1, 1, 2, 3, 5, 8...
+✅ 001. Soma dos Dígitos
+✅ 002. Fibonacci até N termos
+✅ 003. Remover Duplicados de um Array
+✅ 004. Maior e menor número de uma lista
+✅ 005. Contar Frequência de Caracteres
+✅ 006. Par ou Ímpar
+✅ 007. Tabuada de um número
+✅ 008. Verificar Anagramas
+✅ 009. Contar Palavras em uma Frase
+✅ 010. Primeiro Caractere Repetido
+✅ 011. Verificar se todos os caracteres são únicos
+✅ 012. Caixa Eletrônico Simples (POO)
+✅ 013. Validador de Senha
+✅ 014. Remover elementos repetidos mantendo a ordem
+✅ 015. Somar apenas números positivos de uma lista
+✅ 016. Ordenar um array de inteiros (sem usar sort)
+✅ 017. Transformar String em Título
+✅ 018. Classificação de triângulo pelos lados
+✅ 019. Potência
+✅ 020. Resto da Divisão
+021. Calcular o MDC (Máximo Divisor Comum) de dois números
+022. Calcular o MMC (Mínimo Múltiplo Comum) de dois números
+023. Implementar busca binária em um array ordenado
+024. Verificar se uma matriz quadrada é simétrica
+025. Rotacionar um array para a esquerda/direita
 
-🔹 010. Remover Duplicados de um Array
-Dado um array de inteiros, retorne um novo array sem elementos duplicados.
-→ Pratique com Set, List, Map.
-
-🔹 011. Maior e menor número de uma lista
-Dado um array de inteiros, retorne o menor e maior número. Como bônus, informe a média, pares e ímpares.
-Ex: [3, 9, -1, 5] → menor: -1, maior: 9
-
-🔹 012. Contar Frequência de Caracteres
-Escreva um método que conte quantas vezes cada caractere aparece em uma string.
-Ex: "banana" → {b=1, a=3, n=2}
-
-🔹 013. Par ou Ímpar
-     ➤ Peça um número ao usuário e diga se ele é par ou ímpar.
-
-🔹 014. Tabuada de um número
-     ➤ O usuário digita um número e o programa exibe sua tabuada de 1 a 10.
-
-🔹 015. Verificar Anagramas
-     Escreva um método que receba duas strings e retorne true se forem anagramas (mesmas letras em ordem diferente).
-     👉 Ex: "amor" e "roma".
-
-🔹 016. Contar Palavras em uma Frase
-     Peça para o usuário digitar uma frase e conte quantas palavras existem.
-     👉 Desafio extra: ignore múltiplos espaços.
-
-🔹 017. Primeiro Caractere Repetido
-     Dada uma string, encontre o primeiro caractere que se repete.
-     👉 Ex: "programar" → 'r'
-
-🔹 018. Verificar se todos os caracteres são únicos
-     Dada uma string, diga se todos os caracteres são únicos (sem repetição).
-     👉 Ex: "abcd" → true
-     👉 Ex: "java" → false
-
-🔹 019. Caixa Eletrônico Simples (POO)
-     Simule um caixa eletrônico:
-     Criar uma classe Conta com saldo, depositar, sacar.
-     Usuário interage via console.
-
-🔹 020. Validador de Senha
-    Verifique se uma senha é forte:
-    Pelo menos 8 caracteres
-    Contém letra maiúscula
-    Contém número
-    Contém caractere especial
-
-🔹 021. Remover elementos repetidos mantendo a ordem
-     Dado um array de inteiros, remova os duplicados, mas mantenha a ordem original.
-     👉 Use LinkedHashSet.
-
-🔹 022. Somar apenas números positivos de uma lista
-     Peça ao usuário para digitar vários números e some apenas os positivos.
-
-🔹 023. Ordenar um array de inteiros (sem usar sort)
-
-🔹 024. Transformar String em Título
-     Ex: "ola mundo em java" → "Ola Mundo Em Java"
-     👉 Capitalizar a primeira letra de cada palavra.
-
--------------------------------------------------
+==============================================
 🔁 Desafios com Laços e Condicionais
--------------------------------------------------
+==============================================
+✅ 001. Contagem Regressiva
+✅ 002. Números Pares de 1 a 100
+✅ 003. Soma de 10 números digitados
+✅ 004. Número Secreto com Tentativas Infinitas
+✅ 005. Menu com do-while
+✅ 006. Contar números negativos, positivos e zeros
+✅ 007. Tabuada de vários números
+✅ 008. Soma até número negativo
+✅ 009. Verificar número perfeito
+✅ 010. Gerador de sequência: potências de 2
+✅ 011. Média de notas com laço
+✅ 012. Número Primo com break
+✅ 013. Contar dígitos de um número
+✅ 014. Inverter número inteiro
+✅ 015. Jogo de adivinhação com tentativas limitadas
+016. Imprimir um triângulo de asteriscos alinhado à esquerda
+017. Imprimir um triângulo de asteriscos alinhado ao centro
+018. Verificar se um número é Armstrong
+019. Gerar a tabuada de todos os números de 1 a 10
+020. Simular um relógio digital (00:00 até 23:59)
 
-🔸 025. Contagem Regressiva
-Peça ao usuário um número inteiro e faça uma contagem regressiva até 0, exibindo os números um por um.
+==============================================
+📦 Outros Desafios
+==============================================
+001. Conversor de decimal para binário
+002. Conversor de binário para decimal
+003. Verificar se um ano é bissexto
+004. Contar quantas vezes uma palavra aparece em um texto
+005. Gerar senhas aleatórias de tamanho definido pelo usuário
 
-🔸 026. Números Pares de 1 a 100
-Use um for ou while para imprimir todos os números pares entre 1 e 100.
-
-🔸 027. Soma de 10 números digitados
-Peça 10 números ao usuário usando for ou do-while e mostre a soma total no final.
-
-🔸 028. Número Secreto com Tentativas Infinitas
-Armazene um número secreto e peça tentativas até o usuário acertar. Diga se o número digitado é maior ou menor.
-
-🔸 029. Menu com do-while
-Monte um menu que repete até que o usuário escolha “sair”:
-[1] Ver saldo
-[2] Depositar
-[3] Sair
-
-🔸 030. Contar números negativos, positivos e zeros
-O usuário digita 10 números. Conte quantos são negativos, positivos ou zero.
-
-🔸 031. Tabuada de vários números
-O usuário digita um número. Mostre sua tabuada. Depois pergunte se ele quer ver a de outro número. Repita até ele digitar "n".
-
-🔸 032. Soma até número negativo
-O programa deve somar os números digitados até que o usuário informe um número negativo.
-
-🔸 033. Verificar número perfeito
-Um número é perfeito se a soma dos seus divisores próprios (excluindo ele mesmo) for igual a ele.
-→ Ex: 6 → 1 + 2 + 3 = 6
-
-🔸 034. Gerador de sequência: potências de 2
-Peça um número n e exiba as potências de 2 até 2^n.
-→ Ex: Entrada: 5 → Saída: 1, 2, 4, 8, 16, 32
-
-🔸 035. Média de notas com laço
-O usuário digita as notas dos alunos (até digitar -1). Ao final, calcule e exiba a média das notas.
-
-🔸 036. Número Primo com break
-Dado um número, verifique se é primo interrompendo o laço assim que encontrar um divisor.
-
-🔸 037. Contar dígitos de um número
-Peça um número inteiro e conte quantos dígitos ele possui usando while.
-
-🔸 038. Inverter número inteiro
-Digite: 12345
-Saída: 54321
-(Dica: use while com % e /)
-
-🔸 039. Jogo de adivinhação com tentativas limitadas
-Com um número de tentativas definido pelo usuário.
-
-🔸 040. Implementar um método em Java que retorna uma saudação personalizada com ponto de exclamação.
+==============================================
+🚀 Desafios Avançados (nível 3)
+==============================================
+001. Sistema de cadastro de alunos (usar classes, lista e métodos CRUD)
+002. Implementar uma fila e uma pilha com ArrayList (simulando estrutura de dados)
+003. Criar um sistema de agenda de contatos com busca por nome ou telefone
+004. Implementar um mini-sistema bancário com transferências entre contas
+005. Criar um programa que leia um arquivo de texto e conte as palavras mais frequentes
+006. Simular um jogo da velha para 2 jogadores no console
+007. Criar um programa que serialize e desserialize objetos em arquivos
+008. Implementar um sistema de notas de alunos usando HashMap (chave: nome, valor: lista de notas)
+009. Criar um simulador de carrinho de compras (POO + coleções)
+010. Desenvolver um mini-sistema de autenticação (login/senha) com persistência em arquivo
