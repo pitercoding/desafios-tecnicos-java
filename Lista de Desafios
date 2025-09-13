@@ -11,7 +11,7 @@
 ✅ 007. Inverter String
 ✅ 008. Saudação personalizada com ponto de exclamação
 ✅ 009. Receber dois números e mostrar operações
-010. Verificar se uma string contém apenas dígitos
+✅ 010. Verificar se todos os caracteres de uma string são dígitos (0 a 9)
 011. Calcular a área de um círculo (usuário informa o raio)
 012. Converter Celsius ↔ Fahrenheit
 013. Encontrar o maior de 3 números dados
