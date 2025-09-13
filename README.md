@@ -1,89 +1,125 @@
-# Desafios em Java 🚀
+# 🚀 Desafios em Java
 
-Este repositório está em constante desenvolvimento e reúne **exercícios práticos de lógica de programação, Programação Orientada a Objetos (POO) e estruturas de dados básicas**, todos implementados em **Java**.
+Este repositório reúne uma coleção de **desafios práticos de lógica de programação, Programação Orientada a Objetos (POO) e estruturas de dados**, todos implementados em **Java**.
 
-A proposta é reforçar a base de programação com pequenos desafios progressivos, explorando desde conceitos fundamentais até uma introdução ao pensamento algorítmico mais estruturado.
+O objetivo é **reforçar a base de programação** com exercícios progressivos, desde conceitos fundamentais até problemas mais estruturados, servindo como prática para entrevistas de estágio e vagas de desenvolvedor júnior.
 
+## 📂 Estrutura
 
-## ✅ Estrutura
+- Cada desafio está em uma pasta própria, com nome padronizado.
+- Dentro de cada pasta há a implementação em Java e, quando necessário, comentários explicando a proposta.
+- Os desafios estão organizados por **nível de dificuldade**.
+- Desafios já completados: ✅
+- Desafios para realizar: ⬜
 
-Cada desafio é separado em uma pasta própria com um nome padronizado, contendo a implementação e, quando necessário, as instruções do exercício como comentários no código.
+## 📚 Lista de Desafios
 
+### 👍 Nível 1 — Desafios Simples
+* ✅ 000. Olá, Mundo!
+* ✅ 001. Verificador de Palíndromo
+* ✅ 002. Soma de números únicos
+* ✅ 003. Orientação a Objetos: Zoológico
+* ✅ 004. Contador de Vogais
+* ✅ 005. Fatorial
+* ✅ 006. Números Primos
+* ✅ 007. Inverter String
+* ✅ 008. Saudação personalizada com ponto de exclamação
+* ✅ 009. Receber dois números e mostrar operações
+* ⬜ 010. Verificar se uma string contém apenas dígitos
+* ⬜ 011. Calcular a área de um círculo (usuário informa o raio)
+* ⬜ 012. Converter Celsius ↔ Fahrenheit
+* ⬜ 013. Encontrar o maior de 3 números dados
+* ⬜ 014. Calcular média aritmética de uma lista de números
 
-## 📚 Lista de Desafios Implementados
+### 🧠 Nível 2 — Desafios de Lógica Intermediária
+* ✅ 001. Soma dos Dígitos
+* ✅ 002. Fibonacci até N termos
+* ✅ 003. Remover Duplicados de um Array
+* ✅ 004. Maior e menor número de uma lista
+* ✅ 005. Contar Frequência de Caracteres
+* ✅ 006. Par ou Ímpar
+* ✅ 007. Tabuada de um número
+* ✅ 008. Verificar Anagramas
+* ✅ 009. Contar Palavras em uma Frase
+* ✅ 010. Primeiro Caractere Repetido
+* ✅ 011. Verificar se todos os caracteres são únicos
+* ✅ 012. Caixa Eletrônico Simples (POO)
+* ✅ 013. Validador de Senha
+* ✅ 014. Remover elementos repetidos mantendo a ordem
+* ✅ 015. Somar apenas números positivos de uma lista
+* ✅ 016. Ordenar um array de inteiros (sem usar sort)
+* ✅ 017. Transformar String em Título
+* ✅ 018. Classificação de triângulo pelos lados
+* ✅ 019. Potência
+* ✅ 020. Resto da Divisão
+* ⬜ 021. Calcular o MDC (Máximo Divisor Comum) de dois números
+* ⬜ 022. Calcular o MMC (Mínimo Múltiplo Comum) de dois números
+* ⬜ 023. Implementar busca binária em um array ordenado
+* ⬜ 024. Verificar se uma matriz quadrada é simétrica
+* ⬜ 025. Rotacionar um array para a esquerda/direita
 
-| Nº   | Desafio                             | Categoria                       |
-|------|-------------------------------------|---------------------------------|
-| 000  | HelloWorld                          | Básico                          |
-| 001  | Palíndromo                          | Strings / Lógica                |
-| 002  | Somar Números Únicos                | Lógica / Listas                 |
-| 003  | ZooJavaPoo                          | POO                             |
-| 004  | Contador de Vogais                  | Strings                         |
-| 005  | Fatorial                            | Laços / Recursão (opcional)     |
-| 006  | Número Primo                        | Matemática                      |
-| 007  | Inverter String                     | Strings / Lógica                |
-| 008  | Soma dos Dígitos                    | Matemática                      |
-| 009  | Fibonacci                           | Sequências                      |
-| 010  | Remover Duplicados de um Array      | Arrays / Sets                   |
-| 011  | Maior, Menor, Média, Pares e Ímpares| Lógica / Estatística simples    |
-| 012  | Frequência de Caracteres            | Map / Strings                   |
-| 013  | Par ou Ímpar                        | Condicionais                    |
-| 014  | Tabuada                             | Laços                           |
-| 015  | Verificar Anagramas                 | Strings                         |
-| 016  | Contador de Palavras                | Strings                         |
-| 017  | Primeiro Caractere Repetido         | Strings / HashSet               |
-| 018  | Verificar Caracteres Únicos         | Strings / Set                   |
-| 019  | Caixa Eletrônico Simples            | POO                             |
-| 020  | Validador de Senha                  | Strings / Regras                |
-| 021  | Remover Elementos Repetidos         | Listas                          |
-| 022  | Somar Apenas Números Positivos      | Laços / Condicional             |
-| 023  | Ordenar Array Sem `sort()`          | Arrays / Algoritmos             |
-| 024  | String em Título                    | Strings / Manipulação           |
-| 025  | Contagem Regressiva                 | Laços                           |
-| 026  | Pares de 1 a 100                    | Laços                           |
-| 027  | Soma de 10 Números                  | Laços                           |
-| 028  | Número Secreto (tenta. infinitas)   | Jogo / While                    |
-| 029  | Menu com Do-While                   | Laços                           |
-| 030  | Contar Positivos, Negativos e Zeros | Laços / Condicionais            |
-| 031  | Soma até Número Negativo            | While                           |
-| 032  | Tabuada com Loop                    | For / Do-While                  |
-| 033  | Verificar Número Perfeito           | Matemática / Laços              |
-| 034  | Potências de 2                      | Sequência                       |
-| 035  | Média de Notas com Laço             | Laços                           |
-| 036  | Número Primo com `break`            | Laço + Otimização               |
-| 037  | Contar Dígitos de um Número         | While / Divisão                 |
-| 038  | Inverter Número Inteiro             | While / Módulo e Divisão        |
-| 039  | Jogo Adivinhação (tenta. limitadas) | Jogo / Random / While           |
+### 🔁 Nível 3 — Desafios com Laços e Condicionais
+* ✅ 001. Contagem Regressiva
+* ✅ 002. Números Pares de 1 a 100
+* ✅ 003. Soma de 10 números digitados
+* ✅ 004. Número Secreto com Tentativas Infinitas
+* ✅ 005. Menu com do-while
+* ✅ 006. Contar números negativos, positivos e zeros
+* ✅ 007. Tabuada de vários números
+* ✅ 008. Soma até número negativo
+* ✅ 009. Verificar número perfeito
+* ✅ 010. Gerador de sequência: potências de 2
+* ✅ 011. Média de notas com laço
+* ✅ 012. Número Primo com break
+* ✅ 013. Contar dígitos de um número
+* ✅ 014. Inverter número inteiro
+* ✅ 015. Jogo de adivinhação com tentativas limitadas
+* ⬜ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
+* ⬜ 017. Imprimir um triângulo de asteriscos alinhado ao centro
+* ⬜ 018. Verificar se um número é Armstrong
+* ⬜ 019. Gerar a tabuada de todos os números de 1 a 10
+* ⬜ 020. Simular um relógio digital (00:00 até 23:59)
+
+### 📦 Outros Desafios
+* ⬜ 001. Conversor de decimal para binário
+* ⬜ 002. Conversor de binário para decimal
+* ⬜ 003. Verificar se um ano é bissexto
+* ⬜ 004. Contar quantas vezes uma palavra aparece em um texto
+* ⬜ 005. Gerar senhas aleatórias de tamanho definido pelo usuário
+
+### 🚀 Nível 4 — Desafios Avançados
+* ⬜ 001. Sistema de cadastro de alunos (usar classes, lista e métodos CRUD)
+* ⬜ 002. Implementar uma fila e uma pilha com ArrayList (simulando estrutura de dados)
+* ⬜ 003. Criar um sistema de agenda de contatos com busca por nome ou telefone
+* ⬜ 004. Implementar um mini-sistema bancário com transferências entre contas
+* ⬜ 005. Criar um programa que leia um arquivo de texto e conte as palavras mais frequentes
+* ⬜ 006. Simular um jogo da velha para 2 jogadores no console
+* ⬜ 007. Criar um programa que serialize e desserialize objetos em arquivos
+* ⬜ 008. Implementar um sistema de notas de alunos usando HashMap (chave: nome, valor: lista de notas)
+* ⬜ 009. Criar um simulador de carrinho de compras (POO + coleções)
+* ⬜ 010. Desenvolver um mini-sistema de autenticação (login/senha) com persistência em arquivo
 
 ## 🛠️ Tecnologias
-
 - Java 17+
 - IntelliJ IDEA / Eclipse (recomendado)
 - Terminal / Console para entrada de dados
 
-## 📌 Objetivo
-
+## 📌 Objetivos
 Este repositório serve como base para:
-
-- Treinar lógica de programação
-- Praticar POO com exemplos simples
-- Refatorar soluções para melhores práticas
-- Preparar para entrevistas e testes técnicos
-
+- Treinamento de **lógica de programação**
+- Prática de **POO com exemplos aplicados**
+- Exercícios de **estruturas de dados e algoritmos básicos**
+- Preparação para **entrevistas e testes técnicos**
 
 ## 👨‍💻 Contribuindo
-
-Sinta-se à vontade para sugerir melhorias, novos desafios ou correções!
-
+Sinta-se à vontade para:
+- Sugerir melhorias ✨
+- Adicionar novos desafios 💡
+- Corrigir ou refatorar soluções 🔧
 
 ## ⚠️ Status
-
 📌 **Em constante desenvolvimento... novos desafios são adicionados regularmente!**
 
-
 ## 📄 Licença
-
 Este projeto está sob a licença [MIT](LICENSE).
-
----
 
