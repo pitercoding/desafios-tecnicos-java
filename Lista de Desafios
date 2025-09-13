@@ -1,21 +1,21 @@
 ========================================
 👍 Desafios Simples (nível 1)
 ========================================
-✅ 001. Olá, Mundo!
-✅ 002. Verificador de Palíndromo
-✅ 003. Soma de números únicos
-✅ 004. Orientação a Objetos: Zoológico
-✅ 005. Contador de Vogais
-✅ 006. Fatorial
-✅ 007. Números Primos
-✅ 008. Inverter String
-✅ 009. Saudação personalizada com ponto de exclamação
-✅ 010. Receber dois números e mostrar operações
-011. Verificar se uma string contém apenas dígitos
-012. Calcular a área de um círculo (usuário informa o raio)
-013. Converter Celsius ↔ Fahrenheit
-014. Encontrar o maior de 3 números dados
-015. Calcular média aritmética de uma lista de números
+✅ 000. Olá, Mundo!
+✅ 001. Verificador de Palíndromo
+✅ 002. Soma de números únicos
+✅ 003. Orientação a Objetos: Zoológico
+✅ 004. Contador de Vogais
+✅ 005. Fatorial
+✅ 006. Números Primos
+✅ 007. Inverter String
+✅ 008. Saudação personalizada com ponto de exclamação
+✅ 009. Receber dois números e mostrar operações
+010. Verificar se uma string contém apenas dígitos
+011. Calcular a área de um círculo (usuário informa o raio)
+012. Converter Celsius ↔ Fahrenheit
+013. Encontrar o maior de 3 números dados
+014. Calcular média aritmética de uma lista de números
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
@@ -48,7 +48,7 @@
 025. Rotacionar um array para a esquerda/direita
 
 ==============================================
-🔁 Desafios com Laços e Condicionais
+🔁 Desafios com Laços e Condicionais (nível 3)
 ==============================================
 ✅ 001. Contagem Regressiva
 ✅ 002. Números Pares de 1 a 100
@@ -81,7 +81,7 @@
 005. Gerar senhas aleatórias de tamanho definido pelo usuário
 
 ==============================================
-🚀 Desafios Avançados (nível 3)
+🚀 Desafios Avançados (nível 4)
 ==============================================
 001. Sistema de cadastro de alunos (usar classes, lista e métodos CRUD)
 002. Implementar uma fila e uma pilha com ArrayList (simulando estrutura de dados)
