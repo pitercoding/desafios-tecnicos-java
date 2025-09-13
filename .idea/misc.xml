@@ -5,10 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ZooPoo/pom.xml" />
+        <option value="$PROJECT_DIR$/021-MaximoDivisorComum/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/021-MaximoDivisorComum/pom.xml" />
         <option value="$PROJECT_DIR$/ZooPoo/pom.xml" />
       </set>
     </option>

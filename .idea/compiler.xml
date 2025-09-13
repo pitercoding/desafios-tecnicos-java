@@ -8,5 +8,8 @@
         <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="021-MaximoDivisorComum" target="24" />
+    </bytecodeTargetLevel>
   </component>
 </project>
