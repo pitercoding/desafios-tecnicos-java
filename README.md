@@ -1,4 +1,4 @@
-# 🚀 Desafios em Java
+# 🚀 Desafios Técnicos em Java
 
 Este repositório reúne uma coleção de **desafios práticos de lógica de programação, Programação Orientada a Objetos (POO) e estruturas de dados**, todos implementados em **Java**.
 
