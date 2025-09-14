@@ -74,11 +74,12 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 013. Contar dígitos de um número
 * ✅ 014. Inverter número inteiro
 * ✅ 015. Jogo de adivinhação com tentativas limitadas
-* ⬜ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
-* ⬜ 017. Imprimir um triângulo de asteriscos alinhado ao centro
-* ⬜ 018. Verificar se um número é Armstrong
-* ⬜ 019. Gerar a tabuada de todos os números de 1 a 10
-* ⬜ 020. Simular um relógio digital (00:00 até 23:59)
+* ✅ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
+* ✅ 017. Imprimir um triângulo de asteriscos alinhado ao centro
+* ✅ 018. Imprimir no console um triângulo simétrico de asteriscos
+* ⬜ 019. Verificar se um número é Armstrong
+* ⬜ 020. Gerar a tabuada de todos os números de 1 a 10
+* ⬜ 021. Simular um relógio digital (00:00 até 23:59)
 
 ### 📦 Outros Desafios
 * ⬜ 001. Conversor de decimal para binário
