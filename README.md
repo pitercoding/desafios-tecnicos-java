@@ -25,8 +25,8 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 007. Inverter String
 * ✅ 008. Saudação personalizada com ponto de exclamação
 * ✅ 009. Receber dois números e mostrar operações
-* ⬜ 010. Verificar se uma string contém apenas dígitos
-* ⬜ 011. Calcular a área de um círculo (usuário informa o raio)
+* ✅ 010. Verificar se uma string contém apenas dígitos
+* ✅ 011. Calcular a área de um círculo (usuário informa o raio)
 * ⬜ 012. Converter Celsius ↔ Fahrenheit
 * ⬜ 013. Encontrar o maior de 3 números dados
 * ⬜ 014. Calcular média aritmética de uma lista de números
