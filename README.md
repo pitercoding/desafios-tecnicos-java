@@ -52,9 +52,9 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 018. Classificação de triângulo pelos lados
 * ✅ 019. Potência
 * ✅ 020. Resto da Divisão
-* ⬜ 021. Calcular o MDC (Máximo Divisor Comum) de dois números
-* ⬜ 022. Calcular o MMC (Mínimo Múltiplo Comum) de dois números
-* ⬜ 023. Implementar busca binária em um array ordenado
+* ✅ 021. Calcular o MDC (Máximo Divisor Comum) de dois números
+* ✅ 022. Calcular o MMC (Mínimo Múltiplo Comum) de dois números
+* ✅ 023. Implementar busca binária em um array ordenado
 * ⬜ 024. Verificar se uma matriz quadrada é simétrica
 * ⬜ 025. Rotacionar um array para a esquerda/direita
 
