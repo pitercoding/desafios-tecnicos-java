@@ -5,7 +5,7 @@
     <content url="file://$MODULE_DIR$/../018-TrianguloSimetrico">
       <sourceFolder url="file://$MODULE_DIR$/../018-TrianguloSimetrico/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="24" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
