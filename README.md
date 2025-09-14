@@ -25,11 +25,11 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 007. Inverter String
 * ✅ 008. Saudação personalizada com ponto de exclamação
 * ✅ 009. Receber dois números e mostrar operações
-* ⬜ 010. Verificar se uma string contém apenas dígitos
-* ⬜ 011. Calcular a área de um círculo (usuário informa o raio)
-* ⬜ 012. Converter Celsius ↔ Fahrenheit
-* ⬜ 013. Encontrar o maior de 3 números dados
-* ⬜ 014. Calcular média aritmética de uma lista de números
+* ✅ 010. Verificar se uma string contém apenas dígitos
+* ✅ 011. Calcular a área de um círculo (usuário informa o raio)
+* ✅ 012. Converter Celsius ↔ Fahrenheit
+* ✅ 013. Encontrar o maior de 3 números dados
+* ✅ 014. Calcular média aritmética de uma lista de números
 
 ### 🧠 Nível 2 — Desafios de Lógica Intermediária
 * ✅ 001. Soma dos Dígitos
@@ -74,11 +74,12 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 013. Contar dígitos de um número
 * ✅ 014. Inverter número inteiro
 * ✅ 015. Jogo de adivinhação com tentativas limitadas
-* ⬜ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
-* ⬜ 017. Imprimir um triângulo de asteriscos alinhado ao centro
-* ⬜ 018. Verificar se um número é Armstrong
-* ⬜ 019. Gerar a tabuada de todos os números de 1 a 10
-* ⬜ 020. Simular um relógio digital (00:00 até 23:59)
+* ✅ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
+* ✅ 017. Imprimir um triângulo de asteriscos alinhado ao centro
+* ✅ 018. Imprimir no console um triângulo simétrico de asteriscos
+* ⬜ 019. Verificar se um número é Armstrong
+* ⬜ 020. Gerar a tabuada de todos os números de 1 a 10
+* ⬜ 021. Simular um relógio digital (00:00 até 23:59)
 
 ### 📦 Outros Desafios
 * ⬜ 001. Conversor de decimal para binário
