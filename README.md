@@ -30,6 +30,12 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 012. Converter Celsius ↔ Fahrenheit
 * ✅ 013. Encontrar o maior de 3 números dados
 * ✅ 014. Calcular média aritmética de uma lista de números
+* ✅ 015. Conversor de minutos para horas e minutos
+* ✅ 016. Mostrar o dia da semana a partir de um número (1–7)
+* ✅ 017. Calculadora de IMC
+* ⬜ 018. Trocar valores de duas variáveis sem usar variável auxiliar
+* ⬜ 019. Simulador de dado (1 a 6)
+* ⬜ 020. Jogo de adivinhação simples (1 a 10)
 
 ### 🧠 Nível 2 — Desafios de Lógica Intermediária
 * ✅ 001. Soma dos Dígitos
@@ -57,6 +63,12 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 023. Implementar busca binária em um array ordenado
 * ⬜ 024. Verificar se uma matriz quadrada é simétrica
 * ⬜ 025. Rotacionar um array para a esquerda/direita
+* ⬜ 026. Calcular média ponderada
+* ⬜ 027. Normalizar texto (remover acentos e deixar minúsculo)
+* ⬜ 028. Simulador de estoque (POO: classe Produto, adicionar/remover)
+* ⬜ 029. Gerador de números da Mega-Sena (6 números não repetidos)
+* ⬜ 030. Intercalar duas listas alternadamente
+* ⬜ 031. Gerador de senha forte (letras, números, símbolos)
 
 ### 🔁 Nível 3 — Desafios com Laços e Condicionais
 * ✅ 001. Contagem Regressiva
@@ -77,9 +89,17 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 * ✅ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
 * ✅ 017. Imprimir um triângulo de asteriscos alinhado ao centro
 * ✅ 018. Imprimir no console um triângulo simétrico de asteriscos
-* ⬜ 019. Verificar se um número é Armstrong
-* ⬜ 020. Gerar a tabuada de todos os números de 1 a 10
-* ⬜ 021. Simular um relógio digital (00:00 até 23:59)
+* ✅ 019. Verificar se um número é Armstrong
+* ✅ 020. Gerar a tabuada de todos os números de 1 a 10
+* ✅ 021. Simular um relógio digital (00:00 até 23:59)
+* ⬜ 022. Cronômetro simples (contar até N segundos)
+* ⬜ 023. Somatório de série (1/1 + 1/2 + ... + 1/N)
+* ⬜ 024. Fibonacci em formato de pirâmide
+* ⬜ 025. Simulador de corrida (mostrar carros avançando a cada iteração)
+* ⬜ 026. Jogo de Craps (dados com regras simples)
+* ⬜ 027. Histograma no console (gráfico de barras com *)
+* ⬜ 028. Verificar se um número é perfeito e listar divisores
+* ⬜ 029. Pirâmide de Fibonacci
 
 ### 📦 Outros Desafios
 * ⬜ 001. Conversor de decimal para binário
