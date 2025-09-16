@@ -20,7 +20,7 @@
 ✅ 016. Somar todos os elementos de um array de inteiros
 ✅ 017. Calcular a média dos valores de um array de inteiros
 ✅ 018. Contar quantos números pares existem em um array
-⬜ 019. Contar quantos números ímpares existem em um array
+✅ 019. Contar quantos números ímpares existem em um array
 ⬜ 020. Criar um programa que armazene 5 nomes em um array e os imprima um por linha
 ⬜ 021. Criar um programa que leia 5 notas de alunos, guarde em um array e informe a média
 ⬜ 022. Criar um array de Strings e imprimir o maior e o menor texto armazenado
