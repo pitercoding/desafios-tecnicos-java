@@ -12,10 +12,25 @@
 ✅ 008. Saudação personalizada com ponto de exclamação
 ✅ 009. Receber dois números e mostrar operações
 ✅ 010. Verificar se todos os caracteres de uma string são dígitos (0 a 9)
-011. Calcular a área de um círculo (usuário informa o raio)
-012. Converter Celsius ↔ Fahrenheit
-013. Encontrar o maior de 3 números dados
-014. Calcular média aritmética de uma lista de números
+✅ 011. Calcular a área de um círculo (usuário informa o raio)
+✅ 012. Converter Celsius ↔ Fahrenheit
+✅ 013. Encontrar o maior de 3 números dados
+✅ 014. Calcular média aritmética de uma lista de números
+⬜ 015. Criar um array de 5 números inteiros e imprimir cada número
+⬜ 016. Somar todos os elementos de um array de inteiros
+⬜ 017. Calcular a média dos valores de um array de inteiros
+⬜ 018. Contar quantos números pares existem em um array
+⬜ 019. Contar quantos números ímpares existem em um array
+⬜ 020. Criar um programa que armazene 5 nomes em um array e os imprima um por linha
+⬜ 021. Criar um programa que leia 5 notas de alunos, guarde em um array e informe a média
+⬜ 022. Criar um array de Strings e imprimir o maior e o menor texto armazenado
+⬜ 023. Verificar se um número existe dentro de um array
+⬜ 024. Criar um array de 10 números e inverter a ordem dos elementos
+⬜ 025. Criar um programa que leia 10 números e armazene apenas os positivos em um array
+⬜ 026. Criar um programa que leia 10 números e armazene apenas os negativos em um array
+⬜ 027. Criar um programa que armazene 5 pares (chave, valor) em um HashMap (ex: produto e preço) e depois imprima todos
+⬜ 028. Criar um programa que receba nomes e idades de 5 pessoas e armazene em um Map<String, Integer>. Depois, exibir quem é o mais velho
+⬜ 029. Criar um programa que leia uma lista de nomes e remova os repetidos usando um Set
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
@@ -44,8 +59,8 @@
 ✅ 021. Calcular o MDC (Máximo Divisor Comum) de dois números
 ✅ 022. Calcular o MMC (Mínimo Múltiplo Comum) de dois números
 ✅ 023. Implementar busca binária em um array ordenado
-024. Verificar se uma matriz quadrada é simétrica
-025. Rotacionar um array para a esquerda/direita
+⬜ 024. Verificar se uma matriz quadrada é simétrica
+⬜ 025. Rotacionar um array para a esquerda/direita
 
 ==============================================
 🔁 Desafios com Laços e Condicionais (nível 3)
@@ -65,31 +80,31 @@
 ✅ 013. Contar dígitos de um número
 ✅ 014. Inverter número inteiro
 ✅ 015. Jogo de adivinhação com tentativas limitadas
-016. Imprimir um triângulo de asteriscos alinhado à esquerda
-017. Imprimir um triângulo de asteriscos alinhado ao centro
-018. Verificar se um número é Armstrong
-019. Gerar a tabuada de todos os números de 1 a 10
-020. Simular um relógio digital (00:00 até 23:59)
+⬜ 016. Imprimir um triângulo de asteriscos alinhado à esquerda
+⬜ 017. Imprimir um triângulo de asteriscos alinhado ao centro
+⬜ 018. Verificar se um número é Armstrong
+⬜ 019. Gerar a tabuada de todos os números de 1 a 10
+⬜ 020. Simular um relógio digital (00:00 até 23:59)
 
 ==============================================
 📦 Outros Desafios
 ==============================================
-001. Conversor de decimal para binário
-002. Conversor de binário para decimal
-003. Verificar se um ano é bissexto
-004. Contar quantas vezes uma palavra aparece em um texto
-005. Gerar senhas aleatórias de tamanho definido pelo usuário
+⬜ 001. Conversor de decimal para binário
+⬜ 002. Conversor de binário para decimal
+⬜ 003. Verificar se um ano é bissexto
+⬜ 004. Contar quantas vezes uma palavra aparece em um texto
+⬜ 005. Gerar senhas aleatórias de tamanho definido pelo usuário
 
 ==============================================
 🚀 Desafios Avançados (nível 4)
 ==============================================
-001. Sistema de cadastro de alunos (usar classes, lista e métodos CRUD)
-002. Implementar uma fila e uma pilha com ArrayList (simulando estrutura de dados)
-003. Criar um sistema de agenda de contatos com busca por nome ou telefone
-004. Implementar um mini-sistema bancário com transferências entre contas
-005. Criar um programa que leia um arquivo de texto e conte as palavras mais frequentes
-006. Simular um jogo da velha para 2 jogadores no console
-007. Criar um programa que serialize e desserialize objetos em arquivos
-008. Implementar um sistema de notas de alunos usando HashMap (chave: nome, valor: lista de notas)
-009. Criar um simulador de carrinho de compras (POO + coleções)
-010. Desenvolver um mini-sistema de autenticação (login/senha) com persistência em arquivo
+⬜ 001. Sistema de cadastro de alunos (usar classes, lista e métodos CRUD)
+⬜ 002. Implementar uma fila e uma pilha com ArrayList (simulando estrutura de dados)
+⬜ 003. Criar um sistema de agenda de contatos com busca por nome ou telefone
+⬜ 004. Implementar um mini-sistema bancário com transferências entre contas
+⬜ 005. Criar um programa que leia um arquivo de texto e conte as palavras mais frequentes
+⬜ 006. Simular um jogo da velha para 2 jogadores no console
+⬜ 007. Criar um programa que serialize e desserialize objetos em arquivos
+⬜ 008. Implementar um sistema de notas de alunos usando HashMap (chave: nome, valor: lista de notas)
+⬜ 009. Criar um simulador de carrinho de compras (POO + coleções)
+⬜ 010. Desenvolver um mini-sistema de autenticação (login/senha) com persistência em arquivo
