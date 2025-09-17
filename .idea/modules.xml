@@ -77,8 +77,10 @@
       <module fileurl="file://$PROJECT_DIR$/nivel1/026-ArraySomenteNegativos/026-ArraySomenteNegativos.iml" filepath="$PROJECT_DIR$/nivel1/026-ArraySomenteNegativos/026-ArraySomenteNegativos.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/030-ConversorHorario/030-ConversorHorario.iml" filepath="$PROJECT_DIR$/nivel1/030-ConversorHorario/030-ConversorHorario.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/030-IntercalarListas/030-IntercalarListas.iml" filepath="$PROJECT_DIR$/nivel2/030-IntercalarListas/030-IntercalarListas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nivel1/031-DiasSemana/031-DiasSemana.iml" filepath="$PROJECT_DIR$/nivel1/031-DiasSemana/031-DiasSemana.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/031-GeradorSenha/031-GeradorSenha.iml" filepath="$PROJECT_DIR$/nivel2/031-GeradorSenha/031-GeradorSenha.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/032-CalculadoraIMC/032-CalculadoraIMC.iml" filepath="$PROJECT_DIR$/nivel1/032-CalculadoraIMC/032-CalculadoraIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nivel1/033-TrocarValorDuasVariaveis/033-TrocarValorDuasVariaveis.iml" filepath="$PROJECT_DIR$/nivel1/033-TrocarValorDuasVariaveis/033-TrocarValorDuasVariaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/034-SimuladorDado/034-SimuladorDado.iml" filepath="$PROJECT_DIR$/nivel1/034-SimuladorDado/034-SimuladorDado.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
