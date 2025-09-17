@@ -14,59 +14,59 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 
 ## 📚 Lista de Desafios
 
-A lista completa pode ser acessada diretamente [AQUI](https://github.com/pitercoding/desafios-tecnicos-java/blob/main/Lista%20de%20Desafios). 
+A lista completa pode ser acessada diretamente [AQUI](https://github.com/pitercoding/desafios-tecnicos-java/blob/main/Lista%20de%20Desafios).
 
 <details>
   <summary>👍 Nível 1 — Desafios Simples</summary>
 
-- ✅ 000. Olá, Mundo!  
-- ✅ 001. Verificador de Palíndromo  
-- ✅ 002. Soma de números únicos  
-- ✅ 003. Orientação a Objetos: Zoológico  
-- ✅ 004. Contador de Vogais  
-- ✅ 005. Fatorial  
-- ✅ 006. Números Primos  
-- ✅ 007. Inverter String  
-- ✅ 008. Saudação personalizada com ponto de exclamação  
-- ✅ 009. Receber dois números e mostrar operações  
-- ✅ 010. Verificar se uma string contém apenas dígitos  
+- ✅ 000. Olá, Mundo!
+- ✅ 001. Verificador de Palíndromo
+- ✅ 002. Soma de números únicos
+- ✅ 003. Orientação a Objetos: Zoológico
+- ✅ 004. Contador de Vogais
+- ✅ 005. Fatorial
+- ✅ 006. Números Primos
+- ✅ 007. Inverter String
+- ✅ 008. Saudação personalizada com ponto de exclamação
+- ✅ 009. Receber dois números e mostrar operações
+- ✅ 010. Verificar se uma string contém apenas dígitos
 - ...
 </details>
 
 <details>
   <summary>🧠 Nível 2 — Lógica Intermediária</summary>
 
-- ✅ 001. Soma dos Dígitos  
-- ✅ 002. Fibonacci até N termos  
-- ✅ 003. Remover Duplicados de um Array  
-- ✅ 004. Maior e menor número de uma lista  
-- ✅ 005. Contar Frequência de Caracteres  
+- ✅ 001. Soma dos Dígitos
+- ✅ 002. Fibonacci até N termos
+- ✅ 003. Remover Duplicados de um Array
+- ✅ 004. Maior e menor número de uma lista
+- ✅ 005. Contar Frequência de Caracteres
 - ...
 </details>
 
 <details>
   <summary>🔁 Nível 3 — Laços e Condicionais</summary>
 
-- ✅ 001. Contagem Regressiva  
-- ✅ 002. Números Pares de 1 a 100  
-- ✅ 003. Soma de 10 números digitados  
-- ✅ 004. Número Secreto com Tentativas Infinitas  
+- ✅ 001. Contagem Regressiva
+- ✅ 002. Números Pares de 1 a 100
+- ✅ 003. Soma de 10 números digitados
+- ✅ 004. Número Secreto com Tentativas Infinitas
 - ...
 </details>
 
 <details>
   <summary>📦 Outros Desafios</summary>
 
-- ⬜ 001. Conversor de decimal para binário  
-- ⬜ 002. Conversor de binário para decimal  
+- ⬜ 001. Conversor de decimal para binário
+- ⬜ 002. Conversor de binário para decimal
 - ...
 </details>
 
 <details>
   <summary>🚀 Nível 4 — Desafios Avançados</summary>
 
-- ⬜ 001. Sistema de cadastro de alunos  
-- ⬜ 002. Implementar fila e pilha com ArrayList  
+- ⬜ 001. Sistema de cadastro de alunos
+- ⬜ 002. Implementar fila e pilha com ArrayList
 - ...
 </details>
 
