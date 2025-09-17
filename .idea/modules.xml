@@ -45,23 +45,18 @@
       <module fileurl="file://$PROJECT_DIR$/nivel1/014-CalcularMediaLista/014-CalcularMediaLista.iml" filepath="$PROJECT_DIR$/nivel1/014-CalcularMediaLista/014-CalcularMediaLista.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/014-ElementosRepetidos/014-ElementosRepetidos.iml" filepath="$PROJECT_DIR$/nivel2/014-ElementosRepetidos/014-ElementosRepetidos.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/014-InverterNumero/014-InverterNumero.iml" filepath="$PROJECT_DIR$/nivel3/014-InverterNumero/014-InverterNumero.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nivel1/015-ArrayImprimirCincoNumerosInteiros/015-ArrayImprimirCincoNumerosInteiros.iml" filepath="$PROJECT_DIR$/nivel1/015-ArrayImprimirCincoNumerosInteiros/015-ArrayImprimirCincoNumerosInteiros.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/015-JogoNumeroSecreto/015-JogoNumeroSecreto.iml" filepath="$PROJECT_DIR$/nivel3/015-JogoNumeroSecreto/015-JogoNumeroSecreto.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/015-SomarPositivos/015-SomarPositivos.iml" filepath="$PROJECT_DIR$/nivel2/015-SomarPositivos/015-SomarPositivos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nivel1/016-ArraySomarElementosInteiros/016-ArraySomarElementosInteiros.iml" filepath="$PROJECT_DIR$/nivel1/016-ArraySomarElementosInteiros/016-ArraySomarElementosInteiros.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/016-OrdenarArrayDeInteiros/016-OrdenarArrayDeInteiros.iml" filepath="$PROJECT_DIR$/nivel2/016-OrdenarArrayDeInteiros/016-OrdenarArrayDeInteiros.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/016-TrianguloAsteriscosEsquerda/016-TrianguloAsteriscosEsquerda.iml" filepath="$PROJECT_DIR$/nivel3/016-TrianguloAsteriscosEsquerda/016-TrianguloAsteriscosEsquerda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nivel1/017-ArrayMediaElementosInteiros/017-ArrayMediaElementosInteiros.iml" filepath="$PROJECT_DIR$/nivel1/017-ArrayMediaElementosInteiros/017-ArrayMediaElementosInteiros.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/017-StringEmTitulo/017-StringEmTitulo.iml" filepath="$PROJECT_DIR$/nivel2/017-StringEmTitulo/017-StringEmTitulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/017-TrianguloAsteriscosDireita/017-TrianguloAsteriscosDireita.iml" filepath="$PROJECT_DIR$/nivel3/017-TrianguloAsteriscosDireita/017-TrianguloAsteriscosDireita.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nivel1/018-ArrayNumerosPares/018-ArrayNumerosPares.iml" filepath="$PROJECT_DIR$/nivel1/018-ArrayNumerosPares/018-ArrayNumerosPares.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/018-ClassificacaoTriangulos/018-ClassificacaoTriangulos.iml" filepath="$PROJECT_DIR$/nivel2/018-ClassificacaoTriangulos/018-ClassificacaoTriangulos.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/018-TrianguloSimetrico/018-TrianguloSimetrico.iml" filepath="$PROJECT_DIR$/nivel3/018-TrianguloSimetrico/018-TrianguloSimetrico.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nivel1/019-ArrayNumerosImpares/019-ArrayNumerosImpares.iml" filepath="$PROJECT_DIR$/nivel1/019-ArrayNumerosImpares/019-ArrayNumerosImpares.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/019-Potencia/019-Potencia.iml" filepath="$PROJECT_DIR$/nivel2/019-Potencia/019-Potencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/020-ArrayNomes/020-ArrayNomes.iml" filepath="$PROJECT_DIR$/nivel1/020-ArrayNomes/020-ArrayNomes.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/020-RestoDaDivisao/020-RestoDaDivisao.iml" filepath="$PROJECT_DIR$/nivel2/020-RestoDaDivisao/020-RestoDaDivisao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nivel1/021-ArrayMediaDoAluno/021-ArrayMediaDoAluno.iml" filepath="$PROJECT_DIR$/nivel1/021-ArrayMediaDoAluno/021-ArrayMediaDoAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nivel3/020-Tabuada1ao10/020-Tabuada1ao10.iml" filepath="$PROJECT_DIR$/nivel3/020-Tabuada1ao10/020-Tabuada1ao10.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/021-MaximoDivisorComum/021-MaximoDivisorComum.iml" filepath="$PROJECT_DIR$/nivel2/021-MaximoDivisorComum/021-MaximoDivisorComum.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/022-MinimoMultiploComum/022-MinimoMultiploComum.iml" filepath="$PROJECT_DIR$/nivel2/022-MinimoMultiploComum/022-MinimoMultiploComum.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/023-BuscaBinaria/023-BuscaBinaria.iml" filepath="$PROJECT_DIR$/nivel2/023-BuscaBinaria/023-BuscaBinaria.iml" />
