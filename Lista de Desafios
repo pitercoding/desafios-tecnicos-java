@@ -24,7 +24,7 @@
 ✅ 020. Criar um programa que armazene 5 nomes em um array e os imprima um por linha
 ✅ 021. Criar um programa que leia 5 notas de alunos, guarde em um array e informe a média
 ✅ 022. Criar um array de Strings e imprimir o maior e o menor texto armazenado
-⬜ 023. Verificar se um número existe dentro de um array
+✅ 023. Verificar se um número existe dentro de um array
 ⬜ 024. Criar um array de 10 números e inverter a ordem dos elementos
 ⬜ 025. Criar um programa que leia 10 números e armazene apenas os positivos em um array
 ⬜ 026. Criar um programa que leia 10 números e armazene apenas os negativos em um array
