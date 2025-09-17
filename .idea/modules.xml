@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/nivel1/000-HelloWorld/000-HelloWorld.iml" filepath="$PROJECT_DIR$/nivel1/000-HelloWorld/000-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/001-ContagemRegressiva/001-ContagemRegressiva.iml" filepath="$PROJECT_DIR$/nivel3/001-ContagemRegressiva/001-ContagemRegressiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outros/001-ConversorDecimalBinario/001-ConversorDecimalBinario.iml" filepath="$PROJECT_DIR$/outros/001-ConversorDecimalBinario/001-ConversorDecimalBinario.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/001-Palindromo/001-Palindromo.iml" filepath="$PROJECT_DIR$/nivel1/001-Palindromo/001-Palindromo.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/001-SomaDosDigitos/001-SomaDosDigitos.iml" filepath="$PROJECT_DIR$/nivel2/001-SomaDosDigitos/001-SomaDosDigitos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outros/002-ConversorBinarioDecimal/002-ConversorBinarioDecimal.iml" filepath="$PROJECT_DIR$/outros/002-ConversorBinarioDecimal/002-ConversorBinarioDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/002-Fibonacci/002-Fibonacci.iml" filepath="$PROJECT_DIR$/nivel2/002-Fibonacci/002-Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel3/002-Pares1A100/002-Pares1A100.iml" filepath="$PROJECT_DIR$/nivel3/002-Pares1A100/002-Pares1A100.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/002-SomarNumerosUnicos/002-SomarNumerosUnicos.iml" filepath="$PROJECT_DIR$/nivel1/002-SomarNumerosUnicos/002-SomarNumerosUnicos.iml" />
