@@ -27,7 +27,7 @@
 ✅ 023. Verificar se um número existe dentro de um array
 ✅ 024. Criar um array de 10 números e inverter a ordem dos elementos
 ✅ 025. Criar um programa que leia 10 números e armazene apenas os positivos em um array
-⬜ 026. Criar um programa que leia 10 números e armazene apenas os negativos em um array
+✅ 026. Criar um programa que leia 10 números e armazene apenas os negativos em um array
 ⬜ 027. Criar um programa que armazene 5 pares (chave, valor) em um HashMap (ex: produto e preço) e depois imprima todos
 ⬜ 028. Criar um programa que receba nomes e idades de 5 pessoas e armazene em um Map<String, Integer>. Depois, exibir quem é o mais velho
 ⬜ 029. Criar um programa que leia uma lista de nomes e remova os repetidos usando um Set
