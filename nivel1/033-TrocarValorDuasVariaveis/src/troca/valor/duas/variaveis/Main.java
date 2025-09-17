@@ -20,5 +20,7 @@ public class Main {
         // 1 ^ 0 = 1
 
         System.out.println("A: " + a + " | B: " + b);
+
+        sc.close();
     }
 }
