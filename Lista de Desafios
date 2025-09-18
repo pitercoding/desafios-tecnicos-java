@@ -37,6 +37,11 @@
 ✅ 033. Trocar valores de duas variáveis sem usar variável auxiliar
 ✅ 034. Simulador de dado (1 a 6)
 ✅ 035. Jogo de adivinhação simples (1 a 10)
+✅ 036. Verificar se um número está entre 10 e 20 (inclusive)
+⬜ 037. Verificar se uma pessoa pode votar (idade ≥ 16) e se tem título de eleitor (booleano)
+⬜ 038. Verificar se um número é múltiplo de 3 ou de 5
+⬜ 039. Verificar se uma letra digitada não é uma vogal
+⬜ 040. Receber duas condições booleanas e imprimir se ambas são verdadeiras, apenas uma é verdadeira, ou nenhuma
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
