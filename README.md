@@ -17,6 +17,17 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 A lista completa pode ser acessada diretamente [AQUI](https://github.com/pitercoding/desafios-tecnicos-java/blob/main/Lista%20de%20Desafios).
 
 <details>
+  <summary>☕ Tipos de Desafios</summary>
+  
+- 🗂️ Arrays e Collections
+- 🧩 Lógica e Condições
+- 🔢 Operações Matemáticas Básicas
+- 🤔 Operadores Lógicos
+- 🐒 Orientação a Objetos
+- 📝 Strings e Manipulação de Texto
+</details>
+
+<details>
   <summary>👍 Nível 1 — Desafios Simples</summary>
 
 - ✅ 000. Olá, Mundo!
