@@ -30,7 +30,7 @@
 ✅ 026. Criar um programa que leia 10 números e armazene apenas os negativos em um array
 ✅ 027. Criar um programa que armazene 5 pares (chave, valor) em um HashMap (ex: produto e preço) e depois imprima todos
 ✅ 028. Criar um programa que receba nomes e idades de 5 pessoas e armazene em um Map<String, Integer>. Depois, exibir quem é o mais velho
-⬜ 029. Criar um programa que leia uma lista de nomes e remova os repetidos usando um Set
+✅ 029. Criar um programa que leia uma lista de nomes e remova os repetidos usando um Set
 ✅ 030. Conversor de minutos para horas e minutos
 ✅ 031. Mostrar o dia da semana a partir de um número (1–7)
 ✅ 032. Calculadora de IMC
