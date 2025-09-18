@@ -82,6 +82,7 @@
       <module fileurl="file://$PROJECT_DIR$/nivel2/030-IntercalarListas/030-IntercalarListas.iml" filepath="$PROJECT_DIR$/nivel2/030-IntercalarListas/030-IntercalarListas.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel2/031-GeradorSenha/031-GeradorSenha.iml" filepath="$PROJECT_DIR$/nivel2/031-GeradorSenha/031-GeradorSenha.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/032-CalculadoraIMC/032-CalculadoraIMC.iml" filepath="$PROJECT_DIR$/nivel1/032-CalculadoraIMC/032-CalculadoraIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/033-TrocarValorDeVariaveis/033-TrocarValorDeVariaveis.iml" filepath="$PROJECT_DIR$/033-TrocarValorDeVariaveis/033-TrocarValorDeVariaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel1/034-SimuladorDado/034-SimuladorDado.iml" filepath="$PROJECT_DIR$/nivel1/034-SimuladorDado/034-SimuladorDado.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios-tecnicos-java.iml" filepath="$PROJECT_DIR$/desafios-tecnicos-java.iml" />
     </modules>
