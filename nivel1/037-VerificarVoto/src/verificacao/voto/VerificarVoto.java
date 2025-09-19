@@ -14,7 +14,7 @@ public class VerificarVoto {
 
         System.out.print("Você possui título de eleitor? (sim/não): ");
         String resposta = scanner.nextLine().trim().toLowerCase();
-        
+
         if (resposta.equals("não")) { resposta = "nao"; } // Normaliza "não" (com ou sem acento)
 
         boolean temTitulo = resposta.equals("sim") || resposta.equals("s");
