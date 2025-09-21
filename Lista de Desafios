@@ -1,14 +1,4 @@
 ==============================================
-Emoticons e Tipos de Desafios
-==============================================
-🗂️ Arrays e Collections
-🧩 Lógica e Condições
-🔢 Operações Matemáticas Básicas
-🤔 Operadores Lógicos
-🐒 Orientação a Objetos
-📝 Strings e Manipulação de Texto
-
-==============================================
 👍 Desafios Simples (nível 1)
 ==============================================
 ✅ 000. Olá, Mundo!
@@ -52,6 +42,41 @@ Emoticons e Tipos de Desafios
 ✅ 038. Verificar se um número é múltiplo de 3 ou de 5 🤔
 ✅ 039. Verificar se uma letra digitada não é uma vogal 🤔
 ✅ 040. Receber duas condições booleanas e imprimir se ambas são verdadeiras, apenas uma é verdadeira, ou nenhuma 🤔
+✅ 001. Verificador de Palíndromo
+✅ 002. Soma de números únicos
+✅ 003. Orientação a Objetos: Zoológico
+✅ 004. Contador de Vogais
+✅ 005. Fatorial
+✅ 006. Números Primos
+✅ 007. Inverter String
+✅ 008. Saudação personalizada com ponto de exclamação
+✅ 009. Receber dois números e mostrar operações
+✅ 010. Verificar se todos os caracteres de uma string são dígitos (0 a 9)
+✅ 011. Calcular a área de um círculo (usuário informa o raio)
+✅ 012. Converter Celsius ↔ Fahrenheit
+✅ 013. Encontrar o maior de 3 números dados
+✅ 014. Calcular média aritmética de uma lista de números
+✅ 015. Criar um array de 5 números inteiros e imprimir cada número
+✅ 016. Somar todos os elementos de um array de inteiros
+✅ 017. Calcular a média dos valores de um array de inteiros
+✅ 018. Contar quantos números pares existem em um array
+✅ 019. Contar quantos números ímpares existem em um array
+✅ 020. Criar um programa que armazene 5 nomes em um array e os imprima um por linha
+✅ 021. Criar um programa que leia 5 notas de alunos, guarde em um array e informe a média
+✅ 022. Criar um array de Strings e imprimir o maior e o menor texto armazenado
+✅ 023. Verificar se um número existe dentro de um array
+✅ 024. Criar um array de 10 números e inverter a ordem dos elementos
+✅ 025. Criar um programa que leia 10 números e armazene apenas os positivos em um array
+✅ 026. Criar um programa que leia 10 números e armazene apenas os negativos em um array
+⬜ 027. Criar um programa que armazene 5 pares (chave, valor) em um HashMap (ex: produto e preço) e depois imprima todos
+⬜ 028. Criar um programa que receba nomes e idades de 5 pessoas e armazene em um Map<String, Integer>. Depois, exibir quem é o mais velho
+⬜ 029. Criar um programa que leia uma lista de nomes e remova os repetidos usando um Set
+✅ 030. Conversor de minutos para horas e minutos
+✅ 031. Mostrar o dia da semana a partir de um número (1–7)
+✅ 032. Calculadora de IMC
+✅ 033. Trocar valores de duas variáveis sem usar variável auxiliar
+✅ 034. Simulador de dado (1 a 6)
+⬜ 035. Jogo de adivinhação simples (1 a 10)
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
@@ -124,11 +149,11 @@ Emoticons e Tipos de Desafios
 ==============================================
 📦 Outros Desafios
 ==============================================
-⬜ 001. Conversor de decimal para binário 🔢
-⬜ 002. Conversor de binário para decimal 🔢
-⬜ 003. Verificar se um ano é bissexto 🔢
-⬜ 004. Contar quantas vezes uma palavra aparece em um texto 📝
-⬜ 005. Gerar senhas aleatórias de tamanho definido pelo usuário 📝
+✅ 001. Conversor de decimal para binário
+✅ 002. Conversor de binário para decimal
+⬜ 003. Verificar se um ano é bissexto
+⬜ 004. Contar quantas vezes uma palavra aparece em um texto
+⬜ 005. Gerar senhas aleatórias de tamanho definido pelo usuário
 
 ==============================================
 🚀 Desafios Avançados (nível 4)
