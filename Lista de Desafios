@@ -87,7 +87,7 @@ Emoticons e Tipos de Desafios
 ✅ 029. Gerador de números da Mega-Sena (6 números não repetidos) 🗂️
 ✅ 030. Intercalar duas listas alternadamente 🗂️
 ✅ 031. Gerador de senha forte (letras, números, símbolos) 📝
-⬜ 032. Crie uma lista de inteiros e use forEach com lambda para imprimir cada elemento. 🗂️
+✅ 032. Crie uma lista de inteiros e use forEach com lambda para imprimir cada elemento. 🗂️
 ⬜ 033. Dada uma lista de inteiros, use stream() + filter com lambda para retornar apenas os pares. 🗂️
 ⬜ 034. Usando map e lambda, transforme uma lista de nomes em maiúsculas. 📝
 ⬜ 035. Use reduce com lambda para somar os valores de uma lista de inteiros. 🔢
