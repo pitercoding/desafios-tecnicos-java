@@ -87,6 +87,14 @@ Emoticons e Tipos de Desafios
 ✅ 029. Gerador de números da Mega-Sena (6 números não repetidos) 🗂️
 ✅ 030. Intercalar duas listas alternadamente 🗂️
 ✅ 031. Gerador de senha forte (letras, números, símbolos) 📝
+⬜ 032. Crie uma lista de inteiros e use forEach com lambda para imprimir cada elemento. 🗂️
+⬜ 033. Dada uma lista de inteiros, use stream() + filter com lambda para retornar apenas os pares. 🗂️
+⬜ 034. Usando map e lambda, transforme uma lista de nomes em maiúsculas. 📝
+⬜ 035. Use reduce com lambda para somar os valores de uma lista de inteiros. 🔢
+⬜ 036. Usando stream() + max com lambda, encontre o maior elemento em uma lista. 🔢
+⬜ 037. Use Collections.sort ou list.sort com uma expressão lambda como comparador. Objetivo é ordenar uma lista de Strings. 📝
+⬜ 038. Contar quantas strings começam com determinada letra. Dada uma lista de palavras, conte com filter quantas começam com a letra "A". 📝
+⬜ 039. Criar uma thread com lambda. Use Runnable implementado com expressão lambda para imprimir uma mensagem em uma nova thread. 🧩
 
 ==============================================
 🔁 Desafios com Laços e Condicionais (nível 3)
