@@ -95,7 +95,7 @@ Emoticons e Tipos de Desafios
 ✅ 037. Use Collections.sort ou list.sort com uma expressão lambda como comparador. Objetivo é ordenar uma lista de Strings. 📝
 ✅ 038. Contar quantas strings começam com determinada letra. Dada uma lista de palavras, conte com filter quantas começam com a letra "A". 📝
 ✅ 039. Criar uma thread com lambda. Use Runnable implementado com expressão lambda para imprimir uma mensagem em uma nova thread. 🧩
-⬜ 040. Criar um Iterator manualmente para percorrer uma lista de inteiros e, em seguida, resolver o mesmo problema usando stream(). 🗂️
+✅ 040. Criar um Iterator manualmente para percorrer uma lista de inteiros e, em seguida, resolver o mesmo problema usando stream(). 🗂️
 ⬜ 041. Usando map, transforme uma lista de números inteiros em seus quadrados. 🗂️
 ⬜ 042. Usando filter, a partir de uma lista de Strings, retorne apenas aquelas que tenham mais de 5 caracteres. 📝
 ⬜ 043. Usando reduce, calcule o produto (multiplicação) de todos os elementos de uma lista de inteiros. 🔢
