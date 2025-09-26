@@ -98,7 +98,7 @@ Emoticons e Tipos de Desafios
 ✅ 040. Criar um Iterator manualmente para percorrer uma lista de inteiros e, em seguida, resolver o mesmo problema usando stream(). 🗂️
 ✅ 041. Usando map, transforme uma lista de números inteiros em seus quadrados. 🗂️
 ✅ 042. Usando filter, a partir de uma lista de Strings, retorne apenas aquelas que tenham mais de 5 caracteres. 📝
-⬜ 043. Usando reduce, calcule o produto (multiplicação) de todos os elementos de uma lista de inteiros. 🔢
+✅ 043. Usando reduce, calcule o produto (multiplicação) de todos os elementos de uma lista de inteiros. 🔢
 ⬜ 044. Comparar desempenho entre stream() e parallelStream() somando 1 milhão de números. 🗂️
 ⬜ 045. Usando allMatch, anyMatch e noneMatch, verifique em uma lista de inteiros: Se todos são positivos, se algum é par, se nenhum é múltiplo de 7. 🗂️
 ⬜ 046. Usando min e max, encontre o menor e o maior nome em uma lista de Strings, com base no tamanho. 📝
