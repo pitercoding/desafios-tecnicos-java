@@ -102,7 +102,7 @@ Emoticons e Tipos de Desafios
 ✅ 044. Comparar desempenho entre stream() e parallelStream() somando 1 milhão de números. 🗂️
 ✅ 045. Usando allMatch, anyMatch e noneMatch, verifique em uma lista de inteiros: Se todos são positivos, se algum é par, se nenhum é múltiplo de 7. 🗂️
 ✅ 046. Usando min e max, encontre o menor e o maior nome em uma lista de Strings, com base no tamanho. 📝
-⬜ 047. Usando distinct, filtre elementos repetidos de uma lista de inteiros. 🗂️
+✅ 047. Usando distinct, filtre elementos repetidos de uma lista de inteiros. 🗂️
 ⬜ 048. Usando skip e limit, pule os 5 primeiros elementos de uma lista de inteiros e exiba apenas os 10 seguintes. 🗂️
 ⬜ 049. Usando takeWhile, exiba os elementos de uma lista enquanto forem números menores que 50. 🗂️
 
