@@ -52,6 +52,46 @@ Emoticons e Tipos de Desafios
 ✅ 038. Verificar se um número é múltiplo de 3 ou de 5 🤔
 ✅ 039. Verificar se uma letra digitada não é uma vogal 🤔
 ✅ 040. Receber duas condições booleanas e imprimir se ambas são verdadeiras, apenas uma é verdadeira, ou nenhuma 🤔
+⬜ 041. Calcular área de um retângulo 🔢
+⬜ 042. Calcular o quadrado de um número 🔢
+⬜ 043. Verificar se um número é positivo, negativo ou zero 🧩
+⬜ 044. Juntar (concatenar) duas strings 📝
+⬜ 045. Obter o último caractere de uma string 📝
+⬜ 046. Converter uma string para maiúsculas 📝
+⬜ 047. Converter uma string para minúsculas 📝
+⬜ 048. Criar uma classe `Pessoa` com atributos `nome` e `idade` 🐒
+⬜ 049. Criar um método na classe `Pessoa` que exiba uma saudação 🐒
+⬜ 050. Encontrar o menor de três números 🔢
+⬜ 051. Calcular o resto da divisão de dois números 🔢
+⬜ 052. Verificar se um nome de usuário tem mais de 5 caracteres 🤔
+⬜ 053. Criar uma lista de frutas (strings) e imprimir a primeira e a última 🗂️
+⬜ 054. Verificar se uma lista de inteiros está vazia 🗂️
+⬜ 055. Receber o ano de nascimento e calcular a idade atual 🔢
+⬜ 056. Simular um semáforo (imprimir "Verde", "Amarelo", "Vermelho" com base em um número) 🧩
+⬜ 057. Verificar se uma string contém a letra 'a' 🤔
+⬜ 058. Substituir todas as ocorrências de uma letra por outra em uma string 📝
+⬜ 059. Encontrar o índice da primeira ocorrência de um elemento em um array 🗂️
+⬜ 060. Criar uma cópia de um ArrayList 🗂️
+⬜ 061. Adicionar um elemento no início de um ArrayList 🗂️
+⬜ 062. Remover um elemento de uma posição específica em um ArrayList 🗂️
+⬜ 063. Calcular o valor de uma compra com desconto (ex: 10%) 🔢
+⬜ 064. Verificar se a soma de dois números é maior que 100 🤔
+⬜ 065. Criar uma classe `Produto` com `nome` e `preco` e um método para aplicar desconto 🐒
+⬜ 066. Ler um caractere e verificar se é uma letra ou um número 🧩
+⬜ 067. Simples conversor de Real para Dólar (taxa fixa) 🔢
+⬜ 068. Imprimir os números de 1 a 10 usando um laço `for` 🧩
+⬜ 069. Imprimir os números pares de 1 a 20 🧩
+⬜ 070. Somar os números de 1 a 100 🔢
+⬜ 071. Obter o tamanho (length) de um array 🗂️
+⬜ 072. Criar um Map e verificar se uma chave específica existe 🗂️
+⬜ 073. A partir de um Map<String, Double>, obter o valor associado a uma chave 🗂️
+⬜ 074. Repetir uma string N vezes 📝
+⬜ 075. Verificar se duas strings são idênticas, ignorando maiúsculas/minúsculas 📝
+⬜ 076. Ler um número e imprimir seu antecessor e sucessor 🔢
+⬜ 077. Calcular a hipotenusa de um triângulo retângulo 🔢
+⬜ 078. Verificar se a idade de uma pessoa a classifica como criança, adolescente, adulto ou idoso 🧩
+⬜ 079. Criar um array com 3 notas, calcular a média e dizer se o aluno foi aprovado (média >= 7.0) 🗂️
+⬜ 080. Criar uma classe `Retangulo` com `base` e `altura` e um método para calcular a área 🐒
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
@@ -105,6 +145,55 @@ Emoticons e Tipos de Desafios
 ✅ 047. Usando distinct, filtre elementos repetidos de uma lista de inteiros. 🗂️
 ✅ 048. Usando skip e limit, pule os 5 primeiros elementos de uma lista de inteiros e exiba apenas os 10 seguintes. 🗂️
 ✅ 049. Usando takeWhile, exiba os elementos de uma lista enquanto forem números menores que 50. 🗂️
+⬜ 050. Encontrar o segundo maior elemento de um array 🗂️
+⬜ 051. Encontrar os elementos comuns entre dois arrays 🗂️
+⬜ 052. Inverter as palavras de uma frase ("Olá Mundo" -> "Mundo Olá") 📝
+⬜ 053. Verificar se parênteses, chaves e colchetes estão balanceados em uma expressão 📝
+⬜ 054. Implementar o algoritmo de Bubble Sort 🗂️
+⬜ 055. Implementar o algoritmo de Selection Sort 🗂️
+⬜ 056. Transpor uma matriz (linhas viram colunas e vice-versa) 🗂️
+⬜ 057. Somar duas matrizes de mesma dimensão 🗂️
+⬜ 058. Encontrar o par de elementos em um array cuja soma é igual a um valor X 🗂️
+⬜ 059. Converter um número Romano para Inteiro 🔢
+⬜ 060. Converter um número Inteiro para Romano 🔢
+⬜ 061. Encontrar a subsequência contígua de soma máxima em um array (Algoritmo de Kadane) 🗂️
+⬜ 062. Classe `ContaBancaria` com herança (ContaCorrente e ContaPoupanca) 🐒
+⬜ 063. Classe `Veiculo` com polimorfismo (método `mover()` em Carro e Moto) 🐒
+⬜ 064. Compressão de string simples (ex: "aaabbc" se torna "a3b2c1") 📝
+⬜ 065. Encontrar a palavra mais longa em uma frase 📝
+⬜ 066. Verificar se um número é um "número feliz" 🔢
+⬜ 067. Calcular a raiz quadrada de um número sem usar `Math.sqrt()` (ex: método babilônico) 🔢
+⬜ 068. Mesclar dois arrays ordenados em um único array ordenado 🗂️
+⬜ 069. Validar um endereço de e-mail simples usando regex 📝
+⬜ 070. Contar a frequência de cada palavra em um texto usando um Map 📝
+⬜ 071. POO: Criar um sistema de Biblioteca com as classes Livro e Biblioteca 🐒
+⬜ 072. Encontrar o elemento que aparece um número ímpar de vezes em um array 🗂️
+⬜ 073. Usando `Stream` e `groupingBy`, agrupe uma lista de `Pessoa` por cidade 🗂️
+⬜ 074. Usando `Stream`, encontre a pessoa mais velha em uma lista de objetos `Pessoa` 🗂️
+⬜ 075. Use `flatMap` para transformar uma lista de listas de inteiros em uma única lista 🗂️
+⬜ 076. Dada uma lista de produtos, use `filter` e `map` para obter o nome dos produtos com preço > 100 📝
+⬜ 077. Use `Collectors.joining` para criar uma string CSV a partir de uma lista de strings 📝
+⬜ 078. Criar um comparador customizado com Lambda para ordenar objetos `Pessoa` por idade 🐒
+⬜ 079. Usando `dropWhile`, remova os elementos de uma lista de inteiros até encontrar o primeiro número negativo 🗂️
+⬜ 080. Calcular a união de dois `Set` de inteiros 🗂️
+⬜ 081. Calcular a interseção de dois `Set` de strings 🗂️
+⬜ 082. Implementar um método `toString()` customizado em uma classe POO 🐒
+⬜ 083. Sobrescrever os métodos `equals()` e `hashCode()` em uma classe POO 🐒
+⬜ 084. Gerar todas as permutações de uma string 📝
+⬜ 085. Encontrar o "pico" em um array (elemento maior que seus vizinhos) 🗂️
+⬜ 086. Calcular a moda de um array (o elemento que mais se repete) 🗂️
+⬜ 087. POO: Sistema de Figuras Geométricas com interface (ex: `Calculavel` com `calcularArea()`) 🐒
+⬜ 088. Verificar se um `ArrayList` é um subconjunto de outro 🗂️
+⬜ 089. Usando `Stream`, calcular a média de idade de uma lista de pessoas 🗂️
+⬜ 090. Dividir uma lista em N sublistas de tamanho aproximadamente igual 🗂️
+⬜ 091. Implementar um cache LRU (Least Recently Used) simples usando `LinkedHashMap` 🗂️
+⬜ 092. Encontrar o caractere não repetido mais próximo do início de uma string 📝
+⬜ 093. Desafio do elevador (POO: simular subidas e descidas) 🐒
+⬜ 094. Calcular o fatorial de um número grande usando `BigInteger` 🔢
+⬜ 095. Usando `Stream`, converter uma lista de `String` em uma lista de `Integer` 🗂️
+⬜ 096. Particionar uma lista de números em pares e ímpares usando `Collectors.partitioningBy` 🗂️
+⬜ 097. Criar uma classe `Fracao` e implementar operações de soma e multiplicação 🐒
+⬜ 098. Simular a propagação de um boato em uma rede de pessoas (usando matriz de adjacência) 🗂️
 
 ==============================================
 🔁 Desafios com Laços e Condicionais (nível 3)
@@ -138,6 +227,35 @@ Emoticons e Tipos de Desafios
 ⬜ 027. Histograma no console (gráfico de barras com *) 🧩
 ⬜ 028. Verificar se um número é perfeito e listar divisores 🔢
 ⬜ 029. Pirâmide de Fibonacci 🔢
+⬜ 030. Imprimir um quadrado oco de asteriscos 🧩
+⬜ 031. Imprimir um losango de asteriscos 🧩
+⬜ 032. Calcular a soma dos dígitos de um número usando laço 🔢
+⬜ 033. Listar todos os divisores de um número informado 🔢
+⬜ 034. Encontrar o primeiro múltiplo de 7 maior que 100 🧩
+⬜ 035. Ler notas de alunos até que uma nota negativa seja inserida, e então calcular a média 🧩
+⬜ 036. Pirâmide de números (ex: 1, 22, 333, ...) 🧩
+⬜ 037. Triângulo de Floyd (1, 2 3, 4 5 6, ...) 🧩
+⬜ 038. Simulação de caixa de supermercado (ler preço de produtos até o usuário digitar 0) 🧩
+⬜ 039. Encontrar todos os números primos entre 1 e N 🔢
+⬜ 040. Calcular `x` elevado a `y` usando um laço `for` 🔢
+⬜ 041. Ler 5 números e, para cada um, dizer se é par ou ímpar 🧩
+⬜ 042. Imprimir os 20 primeiros termos da sequência de Fibonacci 🔢
+⬜ 043. Simular uma eleição com 3 candidatos, lendo votos até que o voto seja 0 🧩
+⬜ 044. Triângulo de Pascal (imprimir as N primeiras linhas) 🔢
+⬜ 045. Encontrar todos os pares de números amigos até N (ex: 220 e 284) 🔢
+⬜ 046. Imprimir um tabuleiro de xadrez (8x8) usando 'X' e 'O' 🧩
+⬜ 047. Validar entrada de usuário: pedir uma senha e só continuar quando a senha correta for digitada 🧩
+⬜ 048. Calcular a soma dos elementos de uma diagonal principal de uma matriz quadrada 🗂️
+⬜ 049. Imprimir a sequência: 1, -2, 3, -4, 5, -6... até N 🧩
+⬜ 050. Jogo do "Maior ou Menor": o programa sorteia um número e o usuário tenta adivinhar, recebendo dicas 🧩
+⬜ 051. Ler uma frase e imprimir letra por letra com um pequeno delay entre elas 📝
+⬜ 052. Simular um menu de banco (saque, depósito, saldo, sair) dentro de um `while(true)` 🧩
+⬜ 053. Encontrar o produto dos números ímpares de 1 a 15 🔢
+⬜ 054. Desenhar uma moldura retangular no console com asteriscos 🧩
+⬜ 055. Ler um número e verificar se ele é um "número capicua" (palíndromo numérico) 🔢
+⬜ 056. Simular o crescimento populacional de duas cidades A e B, com taxas de crescimento diferentes, até que A ultrapasse B 🧩
+⬜ 057. Exibir todos os anos bissextos entre o ano 2000 e 2050 🔢
+⬜ 058. Ler um conjunto de números e exibir o maior e o menor valor digitado 🧩
 
 ==============================================
 📦 Outros Desafios
@@ -147,6 +265,11 @@ Emoticons e Tipos de Desafios
 ⬜ 003. Verificar se um ano é bissexto 🔢
 ⬜ 004. Contar quantas vezes uma palavra aparece em um texto 📝
 ⬜ 005. Gerar senhas aleatórias de tamanho definido pelo usuário 📝
+⬜ 006. Conversor de Decimal para Hexadecimal 🔢
+⬜ 007. Conversor de Hexadecimal para Decimal 🔢
+⬜ 008. Validar um formato de data simples (DD/MM/AAAA) 📝
+⬜ 009. Calcular o número de dias entre duas datas 🧩
+⬜ 010. Gerar um "slug" para URL a partir de um título (ex: "Meu Post" -> "meu-post") 📝
 
 ==============================================
 🚀 Desafios Avançados (nível 4)
@@ -161,3 +284,13 @@ Emoticons e Tipos de Desafios
 ⬜ 008. Implementar um sistema de notas de alunos usando HashMap (chave: nome, valor: lista de notas) 🗂️
 ⬜ 009. Criar um simulador de carrinho de compras (POO + coleções) 🐒
 ⬜ 010. Desenvolver um mini-sistema de autenticação (login/senha) com persistência em arquivo 🐒
+⬜ 011. Implementar uma Lista Ligada (LinkedList) do zero, com métodos `add`, `remove` e `find` 🗂️
+⬜ 012. Implementar uma Árvore Binária de Busca (BST) simples, com métodos `insert` e `search` 🗂️
+⬜ 013. Criar um leitor de arquivos CSV que parseia os dados e os armazena em uma lista de objetos 📝
+⬜ 014. Desenvolver um sistema de gerenciamento de tarefas (To-Do List) no console com persistência em arquivo JSON 🐒
+⬜ 015. Simular um sistema de votação eletrônica com candidatos e apuração de votos 🐒
+⬜ 016. Criar um programa que resolva labirintos representados por matrizes 🧩
+⬜ 017. Desenvolver um web scraper simples para extrair títulos de notícias de um site (usando bibliotecas como Jsoup) 📝
+⬜ 018. Simulação do problema Produtor-Consumidor usando `wait()` e `notify()` para concorrência 🧩
+⬜ 019. Criar um mini interpretador de uma linguagem simples (ex: calculadora com variáveis) 📝
+⬜ 020. Jogo de Batalha Naval no console, com posicionamento de navios e lógica de ataque 🐒
