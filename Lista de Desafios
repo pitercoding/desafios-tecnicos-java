@@ -82,7 +82,7 @@ Emoticons e Tipos de Desafios
 ⬜ 068. Imprimir os números de 1 a 10 usando um laço `for` 🧩
 ⬜ 069. Imprimir os números pares de 1 a 20 🧩
 ⬜ 070. Somar os números de 1 a 100 🔢
-⬜ 071. Obter o tamanho (length) de um array 🗂️
+✅ 071. Obter o tamanho (length) de um array 🗂️
 ⬜ 072. Criar um Map e verificar se uma chave específica existe 🗂️
 ⬜ 073. A partir de um Map<String, Double>, obter o valor associado a uma chave 🗂️
 ⬜ 074. Repetir uma string N vezes 📝
