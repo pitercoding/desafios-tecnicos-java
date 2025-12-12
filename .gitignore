@@ -16,7 +16,7 @@
 
 # IntelliJ IDEA
 /.idea/
-/*.iml
+*.iml
 /out/
 /gen/
 
@@ -42,10 +42,6 @@ Thumbs.db
 Desktop.ini
 
 # Secrets and sensitive data
-# It's a good practice to ignore configuration files that contain
-# sensitive information (e.g., passwords, API keys).
-# A template file can be versioned instead.
-# For example, if you have application.properties, you could ignore it and version application.properties.example
 *.properties
 *.yaml
 *.yml
