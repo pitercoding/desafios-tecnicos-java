@@ -20,6 +20,12 @@
 /out/
 /gen/
 
+# Estrutura antiga (migrada para src/)
+/nivel1/
+/nivel2/
+/nivel3/
+/outros/
+
 # Maven/Gradle
 /target/
 /build/

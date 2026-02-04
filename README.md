@@ -6,9 +6,33 @@ O objetivo é **reforçar a base de programação** com exercícios progressivos
 
 ## 📂 Estrutura
 
-- Cada desafio está em uma pasta própria, com nome padronizado.
-- Dentro de cada pasta há a implementação em Java e, quando necessário, comentários explicando a proposta.
-- Os desafios estão organizados por **nível de dificuldade**.
+```
+src/
+├── nivel1/
+│   └── exXXX_nome/
+│       └── *.java
+├── nivel2/
+│   └── exXXX_nome/
+│       └── *.java
+├── nivel3/
+│   └── exXXX_nome/
+│       └── *.java
+└── outros/
+    └── exXXX_nome/
+        └── *.java
+```
+
+**Padrão de packages:** `nivel{N}.ex{XXX}_{nome}`
+
+**Exemplo:**
+```bash
+# Compilar
+javac -d out src/nivel1/ex001_palindromo/Palindromo.java
+
+# Executar
+java -cp out nivel1.ex001_palindromo.Palindromo
+```
+
 - Desafios já completados: ✅
 - Desafios para realizar: ⬜
 
@@ -68,9 +92,8 @@ A lista completa pode ser acessada diretamente [AQUI](https://github.com/piterco
 <details>
   <summary>📦 Outros Desafios</summary>
 
-- ⬜ 001. Conversor de decimal para binário
-- ⬜ 002. Conversor de binário para decimal
-- ...
+- ✅ 001. Conversor de decimal para binário
+- ✅ 002. Conversor de binário para decimal
 </details>
 
 <details>
