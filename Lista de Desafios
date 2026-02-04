@@ -59,8 +59,8 @@ Emoticons e Tipos de Desafios
 ✅ 045. Obter o último caractere de uma string 📝
 ✅ 046. Converter uma string para maiúsculas 📝
 ✅ 047. Converter uma string para minúsculas 📝
-⬜ 048. Criar uma classe `Pessoa` com atributos `nome` e `idade` 🐒
-⬜ 049. Criar um método na classe `Pessoa` que exiba uma saudação 🐒
+✅ 048. Criar uma classe `Pessoa` com atributos `nome` e `idade` 🐒
+✅ 049. Criar um método na classe `Pessoa` que exiba uma saudação 🐒
 ⬜ 050. Encontrar o menor de três números 🔢
 ⬜ 051. Calcular o resto da divisão de dois números 🔢
 ⬜ 052. Verificar se um nome de usuário tem mais de 5 caracteres 🤔
