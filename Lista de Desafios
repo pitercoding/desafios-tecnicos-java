@@ -56,9 +56,9 @@ Emoticons e Tipos de Desafios
 ✅ 042. Calcular o quadrado de um número 🔢
 ✅ 043. Verificar se um número é positivo, negativo ou zero 🧩
 ✅ 044. Juntar (concatenar) duas strings 📝
-⬜ 045. Obter o último caractere de uma string 📝
-⬜ 046. Converter uma string para maiúsculas 📝
-⬜ 047. Converter uma string para minúsculas 📝
+✅ 045. Obter o último caractere de uma string 📝
+✅ 046. Converter uma string para maiúsculas 📝
+✅ 047. Converter uma string para minúsculas 📝
 ⬜ 048. Criar uma classe `Pessoa` com atributos `nome` e `idade` 🐒
 ⬜ 049. Criar um método na classe `Pessoa` que exiba uma saudação 🐒
 ⬜ 050. Encontrar o menor de três números 🔢
