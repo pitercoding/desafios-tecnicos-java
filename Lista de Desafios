@@ -67,11 +67,11 @@ Emoticons e Tipos de Desafios
 ✅ 053. Criar uma lista de frutas (strings) e imprimir a primeira e a última 🗂️
 ✅ 054. Verificar se uma lista de inteiros está vazia 🗂️
 ✅ 055. Receber o ano de nascimento e calcular a idade atual 🔢
-⬜ 056. Simular um semáforo (imprimir "Verde", "Amarelo", "Vermelho" com base em um número) 🧩
-⬜ 057. Verificar se uma string contém a letra 'a' 🤔
-⬜ 058. Substituir todas as ocorrências de uma letra por outra em uma string 📝
-⬜ 059. Encontrar o índice da primeira ocorrência de um elemento em um array 🗂️
-⬜ 060. Criar uma cópia de um ArrayList 🗂️
+✅ 056. Simular um semáforo (imprimir "Verde", "Amarelo", "Vermelho" com base em um número) 🧩
+✅ 057. Verificar se uma string contém a letra 'a' 🤔
+✅ 058. Substituir todas as ocorrências de uma letra por outra em uma string 📝
+✅ 059. Encontrar o índice da primeira ocorrência de um elemento em um array 🗂️
+✅ 060. Criar uma cópia de um ArrayList 🗂️
 ⬜ 061. Adicionar um elemento no início de um ArrayList 🗂️
 ⬜ 062. Remover um elemento de uma posição específica em um ArrayList 🗂️
 ⬜ 063. Calcular o valor de uma compra com desconto (ex: 10%) 🔢
