@@ -61,12 +61,12 @@ Emoticons e Tipos de Desafios
 ✅ 047. Converter uma string para minúsculas 📝
 ✅ 048. Criar uma classe `Pessoa` com atributos `nome` e `idade` 🐒
 ✅ 049. Criar um método na classe `Pessoa` que exiba uma saudação 🐒
-⬜ 050. Encontrar o menor de três números 🔢
-⬜ 051. Calcular o resto da divisão de dois números 🔢
-⬜ 052. Verificar se um nome de usuário tem mais de 5 caracteres 🤔
-⬜ 053. Criar uma lista de frutas (strings) e imprimir a primeira e a última 🗂️
-⬜ 054. Verificar se uma lista de inteiros está vazia 🗂️
-⬜ 055. Receber o ano de nascimento e calcular a idade atual 🔢
+✅ 050. Encontrar o menor de três números 🔢
+✅ 051. Calcular o resto da divisão de dois números 🔢
+✅ 052. Verificar se um nome de usuário tem mais de 5 caracteres 🤔
+✅ 053. Criar uma lista de frutas (strings) e imprimir a primeira e a última 🗂️
+✅ 054. Verificar se uma lista de inteiros está vazia 🗂️
+✅ 055. Receber o ano de nascimento e calcular a idade atual 🔢
 ⬜ 056. Simular um semáforo (imprimir "Verde", "Amarelo", "Vermelho" com base em um número) 🧩
 ⬜ 057. Verificar se uma string contém a letra 'a' 🤔
 ⬜ 058. Substituir todas as ocorrências de uma letra por outra em uma string 📝
