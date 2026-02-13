@@ -72,11 +72,11 @@ Emoticons e Tipos de Desafios
 ✅ 058. Substituir todas as ocorrências de uma letra por outra em uma string 📝
 ✅ 059. Encontrar o índice da primeira ocorrência de um elemento em um array 🗂️
 ✅ 060. Criar uma cópia de um ArrayList 🗂️
-⬜ 061. Adicionar um elemento no início de um ArrayList 🗂️
-⬜ 062. Remover um elemento de uma posição específica em um ArrayList 🗂️
-⬜ 063. Calcular o valor de uma compra com desconto (ex: 10%) 🔢
-⬜ 064. Verificar se a soma de dois números é maior que 100 🤔
-⬜ 065. Criar uma classe `Produto` com `nome` e `preco` e um método para aplicar desconto 🐒
+✅ 061. Adicionar um elemento no início de um ArrayList 🗂️
+✅ 062. Remover um elemento de uma posição específica em um ArrayList 🗂️
+✅ 063. Calcular o valor de uma compra com desconto (ex: 10%) 🔢
+✅ 064. Verificar se a soma de dois números é maior que 100 🤔
+✅ 065. Criar uma classe `Produto` com `nome` e `preco` e um método para aplicar desconto 🐒
 ⬜ 066. Ler um caractere e verificar se é uma letra ou um número 🧩
 ⬜ 067. Simples conversor de Real para Dólar (taxa fixa) 🔢
 ⬜ 068. Imprimir os números de 1 a 10 usando um laço `for` 🧩
