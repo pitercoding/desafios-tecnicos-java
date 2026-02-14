@@ -87,11 +87,11 @@ Emoticons e Tipos de Desafios
 ✅ 073. A partir de um Map<String, Double>, obter o valor associado a uma chave 🗂️
 ✅ 074. Repetir uma string N vezes 📝
 ✅ 075. Verificar se duas strings são idênticas, ignorando maiúsculas/minúsculas 📝
-⬜ 076. Ler um número e imprimir seu antecessor e sucessor 🔢
-⬜ 077. Calcular a hipotenusa de um triângulo retângulo 🔢
+✅ 076. Ler um número e imprimir seu antecessor e sucessor 🔢
+✅ 077. Calcular a hipotenusa de um triângulo retângulo 🔢
 ✅ 078. Verificar se a idade de uma pessoa a classifica como criança, adolescente, adulto ou idoso 🧩
-⬜ 079. Criar um array com 3 notas, calcular a média e dizer se o aluno foi aprovado (média >= 7.0) 🗂️
-⬜ 080. Criar uma classe `Retangulo` com `base` e `altura` e um método para calcular a área 🐒
+✅ 079. Criar um array com 3 notas, calcular a média e dizer se o aluno foi aprovado (média >= 7.0) 🗂️
+✅ 080. Criar uma classe `Retangulo` com `base` e `altura` e um método para calcular a área 🐒
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
