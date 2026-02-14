@@ -83,10 +83,10 @@ Emoticons e Tipos de Desafios
 ✅ 069. Imprimir os números pares de 1 a 20 🧩
 ✅ 070. Somar os números de 1 a 100 🔢
 ✅ 071. Obter o tamanho (length) de um array 🗂️
-⬜ 072. Criar um Map e verificar se uma chave específica existe 🗂️
-⬜ 073. A partir de um Map<String, Double>, obter o valor associado a uma chave 🗂️
-⬜ 074. Repetir uma string N vezes 📝
-⬜ 075. Verificar se duas strings são idênticas, ignorando maiúsculas/minúsculas 📝
+✅ 072. Criar um Map e verificar se uma chave específica existe 🗂️
+✅ 073. A partir de um Map<String, Double>, obter o valor associado a uma chave 🗂️
+✅ 074. Repetir uma string N vezes 📝
+✅ 075. Verificar se duas strings são idênticas, ignorando maiúsculas/minúsculas 📝
 ⬜ 076. Ler um número e imprimir seu antecessor e sucessor 🔢
 ⬜ 077. Calcular a hipotenusa de um triângulo retângulo 🔢
 ✅ 078. Verificar se a idade de uma pessoa a classifica como criança, adolescente, adulto ou idoso 🧩
