@@ -77,11 +77,11 @@ Emoticons e Tipos de Desafios
 ✅ 063. Calcular o valor de uma compra com desconto (ex: 10%) 🔢
 ✅ 064. Verificar se a soma de dois números é maior que 100 🤔
 ✅ 065. Criar uma classe `Produto` com `nome` e `preco` e um método para aplicar desconto 🐒
-⬜ 066. Ler um caractere e verificar se é uma letra ou um número 🧩
-⬜ 067. Simples conversor de Real para Dólar (taxa fixa) 🔢
-⬜ 068. Imprimir os números de 1 a 10 usando um laço `for` 🧩
-⬜ 069. Imprimir os números pares de 1 a 20 🧩
-⬜ 070. Somar os números de 1 a 100 🔢
+✅ 066. Ler um caractere e verificar se é uma letra ou um número 🧩
+✅ 067. Simples conversor de Real para Dólar (taxa fixa) 🔢
+✅ 068. Imprimir os números de 1 a 10 usando um laço `for` 🧩
+✅ 069. Imprimir os números pares de 1 a 20 🧩
+✅ 070. Somar os números de 1 a 100 🔢
 ✅ 071. Obter o tamanho (length) de um array 🗂️
 ⬜ 072. Criar um Map e verificar se uma chave específica existe 🗂️
 ⬜ 073. A partir de um Map<String, Double>, obter o valor associado a uma chave 🗂️
