@@ -145,12 +145,12 @@ Emoticons e Tipos de Desafios
 ✅ 047. Usando distinct, filtre elementos repetidos de uma lista de inteiros. 🗂️
 ✅ 048. Usando skip e limit, pule os 5 primeiros elementos de uma lista de inteiros e exiba apenas os 10 seguintes. 🗂️
 ✅ 049. Usando takeWhile, exiba os elementos de uma lista enquanto forem números menores que 50. 🗂️
-⬜ 050. Encontrar o segundo maior elemento de um array 🗂️
-⬜ 051. Encontrar os elementos comuns entre dois arrays 🗂️
-⬜ 052. Inverter as palavras de uma frase ("Olá Mundo" -> "Mundo Olá") 📝
-⬜ 053. Verificar se parênteses, chaves e colchetes estão balanceados em uma expressão 📝
-⬜ 054. Implementar o algoritmo de Bubble Sort 🗂️
-⬜ 055. Implementar o algoritmo de Selection Sort 🗂️
+✅ 050. Encontrar o segundo maior elemento de um array 🗂️
+✅ 051. Encontrar os elementos comuns entre dois arrays 🗂️
+✅ 052. Inverter as palavras de uma frase ("Olá Mundo" -> "Mundo Olá") 📝
+✅ 053. Verificar se parênteses, chaves e colchetes estão balanceados em uma expressão 📝
+✅ 054. Implementar o algoritmo de Bubble Sort 🗂️
+✅ 055. Implementar o algoritmo de Selection Sort 🗂️
 ⬜ 056. Transpor uma matriz (linhas viram colunas e vice-versa) 🗂️
 ⬜ 057. Somar duas matrizes de mesma dimensão 🗂️
 ⬜ 058. Encontrar o par de elementos em um array cuja soma é igual a um valor X 🗂️
