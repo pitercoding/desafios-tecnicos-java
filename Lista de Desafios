@@ -151,11 +151,11 @@ Emoticons e Tipos de Desafios
 ✅ 053. Verificar se parênteses, chaves e colchetes estão balanceados em uma expressão 📝
 ✅ 054. Implementar o algoritmo de Bubble Sort 🗂️
 ✅ 055. Implementar o algoritmo de Selection Sort 🗂️
-⬜ 056. Transpor uma matriz (linhas viram colunas e vice-versa) 🗂️
-⬜ 057. Somar duas matrizes de mesma dimensão 🗂️
-⬜ 058. Encontrar o par de elementos em um array cuja soma é igual a um valor X 🗂️
-⬜ 059. Converter um número Romano para Inteiro 🔢
-⬜ 060. Converter um número Inteiro para Romano 🔢
+✅ 056. Transpor uma matriz (linhas viram colunas e vice-versa) 🗂️
+✅ 057. Somar duas matrizes de mesma dimensão 🗂️
+✅ 058. Encontrar o par de elementos em um array cuja soma é igual a um valor X 🗂️
+✅ 059. Converter um número Romano para Inteiro 🔢
+✅ 060. Converter um número Inteiro para Romano 🔢
 ⬜ 061. Encontrar a subsequência contígua de soma máxima em um array (Algoritmo de Kadane) 🗂️
 ⬜ 062. Classe `ContaBancaria` com herança (ContaCorrente e ContaPoupanca) 🐒
 ⬜ 063. Classe `Veiculo` com polimorfismo (método `mover()` em Carro e Moto) 🐒
