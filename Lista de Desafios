@@ -92,8 +92,8 @@ Emoticons e Tipos de Desafios
 ✅ 078. Verificar se a idade de uma pessoa a classifica como criança, adolescente, adulto ou idoso 🧩
 ✅ 079. Criar um array com 3 notas, calcular a média e dizer se o aluno foi aprovado (média >= 7.0) 🗂️
 ✅ 080. Criar uma classe `Retangulo` com `base` e `altura` e um método para calcular a área 🐒
-⬜ 081. Verificar se um número é divisível por 2 🔢
-⬜ 082. Receber um número e imprimir seu dobro 🔢
+✅ 081. Verificar se um número é divisível por 2 🔢
+✅ 082. Receber um número e imprimir seu dobro 🔢
 ⬜ 083. Receber um número e imprimir seu triplo 🔢
 ⬜ 084. Calcular o perímetro de um quadrado 🔢
 ⬜ 085. Receber um nome e imprimir quantas letras ele possui 📝
