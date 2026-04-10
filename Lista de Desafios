@@ -92,6 +92,26 @@ Emoticons e Tipos de Desafios
 ✅ 078. Verificar se a idade de uma pessoa a classifica como criança, adolescente, adulto ou idoso 🧩
 ✅ 079. Criar um array com 3 notas, calcular a média e dizer se o aluno foi aprovado (média >= 7.0) 🗂️
 ✅ 080. Criar uma classe `Retangulo` com `base` e `altura` e um método para calcular a área 🐒
+⬜ 081. Verificar se um número é divisível por 2 🔢
+⬜ 082. Receber um número e imprimir seu dobro 🔢
+⬜ 083. Receber um número e imprimir seu triplo 🔢
+⬜ 084. Calcular o perímetro de um quadrado 🔢
+⬜ 085. Receber um nome e imprimir quantas letras ele possui 📝
+⬜ 086. Receber uma frase e imprimir apenas o primeiro caractere 📝
+⬜ 087. Verificar se um número é maior que 50 🤔
+⬜ 088. Receber dois números e verificar se são iguais 🤔
+⬜ 089. Criar um array de 3 números e imprimir o segundo elemento 🗂️
+⬜ 090. Criar uma lista de strings e verificar se contém um valor específico 🗂️
+⬜ 091. Receber um número e verificar se ele é menor que zero 🤔
+⬜ 092. Converter metros para centímetros 🔢
+⬜ 093. Receber um número e verificar se ele é divisível por 10 🤔
+⬜ 094. Criar uma string e imprimir seu tamanho 📝
+⬜ 095. Receber um número e imprimir sua metade 🔢
+⬜ 096. Criar um array de inteiros e imprimir apenas o primeiro elemento 🗂️
+⬜ 097. Receber dois números e imprimir qual é o menor 🧩
+⬜ 098. Receber uma palavra e verificar se ela começa com a letra 'A' 📝
+⬜ 099. Receber uma idade e verificar se é maior de 18 anos 🤔
+⬜ 100. Criar uma classe Carro com atributo modelo 🐒
 
 ==============================================
 🧠 Desafios de Lógica Intermediária (nível 2)
