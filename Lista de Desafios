@@ -176,7 +176,7 @@ Emoticons e Tipos de Desafios
 ✅ 058. Encontrar o par de elementos em um array cuja soma é igual a um valor X 🗂️
 ✅ 059. Converter um número Romano para Inteiro 🔢
 ✅ 060. Converter um número Inteiro para Romano 🔢
-⬜ 061. Encontrar a subsequência contígua de soma máxima em um array (Algoritmo de Kadane) 🗂️
+✅ 061. Encontrar a subsequência contígua de soma máxima em um array (Algoritmo de Kadane) 🗂️
 ⬜ 062. Classe `ContaBancaria` com herança (ContaCorrente e ContaPoupanca) 🐒
 ⬜ 063. Classe `Veiculo` com polimorfismo (método `mover()` em Carro e Moto) 🐒
 ⬜ 064. Compressão de string simples (ex: "aaabbc" se torna "a3b2c1") 📝
