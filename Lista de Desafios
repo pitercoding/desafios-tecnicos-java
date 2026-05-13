@@ -184,7 +184,7 @@ Emoticons e Tipos de Desafios
 ✅ 066. Verificar se um número é um "número feliz" 🔢
 ✅ 067. Calcular a raiz quadrada de um número sem usar `Math.sqrt()` (ex: método babilônico) 🔢
 ✅ 068. Mesclar dois arrays ordenados em um único array ordenado 🗂️
-⬜ 069. Validar um endereço de e-mail simples usando regex 📝
+✅ 069. Validar um endereço de e-mail simples usando regex 📝
 ⬜ 070. Contar a frequência de cada palavra em um texto usando um Map 📝
 ⬜ 071. POO: Criar um sistema de Biblioteca com as classes Livro e Biblioteca 🐒
 ⬜ 072. Encontrar o elemento que aparece um número ímpar de vezes em um array 🗂️
