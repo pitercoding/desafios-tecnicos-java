@@ -188,7 +188,7 @@ Emoticons e Tipos de Desafios
 ✅ 070. Contar a frequência de cada palavra em um texto usando um Map 📝
 ✅ 071. POO: Criar um sistema de Biblioteca com as classes Livro e Biblioteca 🐒
 ✅ 072. Encontrar o elemento que aparece um número ímpar de vezes em um array 🗂️
-⬜ 073. Usando `Stream` e `groupingBy`, agrupe uma lista de `Pessoa` por cidade 🗂️
+✅ 073. Usando `Stream` e `groupingBy`, agrupe uma lista de `Pessoa` por cidade 🗂️
 ⬜ 074. Usando `Stream`, encontre a pessoa mais velha em uma lista de objetos `Pessoa` 🗂️
 ⬜ 075. Use `flatMap` para transformar uma lista de listas de inteiros em uma única lista 🗂️
 ⬜ 076. Dada uma lista de produtos, use `filter` e `map` para obter o nome dos produtos com preço > 100 📝
