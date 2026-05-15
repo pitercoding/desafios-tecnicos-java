@@ -195,7 +195,7 @@ Emoticons e Tipos de Desafios
 ✅ 077. Use `Collectors.joining` para criar uma string CSV a partir de uma lista de strings 📝
 ✅ 078. Criar um comparador customizado com Lambda para ordenar objetos `Pessoa` por idade 🐒
 ✅ 079. Usando `dropWhile`, remova os elementos de uma lista de inteiros até encontrar o primeiro número negativo 🗂️
-⬜ 080. Calcular a união de dois `Set` de inteiros 🗂️
+✅ 080. Calcular a união de dois `Set` de inteiros 🗂️
 ⬜ 081. Calcular a interseção de dois `Set` de strings 🗂️
 ⬜ 082. Implementar um método `toString()` customizado em uma classe POO 🐒
 ⬜ 083. Sobrescrever os métodos `equals()` e `hashCode()` em uma classe POO 🐒
