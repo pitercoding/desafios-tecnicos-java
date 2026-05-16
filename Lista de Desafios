@@ -200,7 +200,7 @@ Emoticons e Tipos de Desafios
 ✅ 082. Implementar um método `toString()` customizado em uma classe POO 🐒
 ✅ 083. Sobrescrever os métodos `equals()` e `hashCode()` em uma classe POO 🐒
 ✅ 084. Gerar todas as permutações de uma string 📝
-⬜ 085. Encontrar o "pico" em um array (elemento maior que seus vizinhos) 🗂️
+✅ 085. Encontrar o "pico" em um array (elemento maior que seus vizinhos) 🗂️
 ⬜ 086. Calcular a moda de um array (o elemento que mais se repete) 🗂️
 ⬜ 087. POO: Sistema de Figuras Geométricas com interface (ex: `Calculavel` com `calcularArea()`) 🐒
 ⬜ 088. Verificar se um `ArrayList` é um subconjunto de outro 🗂️
