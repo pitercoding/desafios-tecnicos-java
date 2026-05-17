@@ -204,8 +204,8 @@ Emoticons e Tipos de Desafios
 ✅ 086. Calcular a moda de um array (o elemento que mais se repete) 🗂️
 ✅ 087. POO: Sistema de Figuras Geométricas com interface (ex: `Calculavel` com `calcularArea()`) 🐒
 ✅ 088. Verificar se um `ArrayList` é um subconjunto de outro 🗂️
-⬜ 089. Usando `Stream`, calcular a média de idade de uma lista de pessoas 🗂️
-⬜ 090. Dividir uma lista em N sublistas de tamanho aproximadamente igual 🗂️
+✅ 089. Usando `Stream`, calcular a média de idade de uma lista de pessoas 🗂️
+✅ 090. Dividir uma lista em N sublistas de tamanho aproximadamente igual 🗂️
 ⬜ 091. Implementar um cache LRU (Least Recently Used) simples usando `LinkedHashMap` 🗂️
 ⬜ 092. Encontrar o caractere não repetido mais próximo do início de uma string 📝
 ⬜ 093. Desafio do elevador (POO: simular subidas e descidas) 🐒
